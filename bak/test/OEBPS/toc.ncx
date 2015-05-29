@@ -1,0 +1,4152 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="cover" content="cover"/>
+<meta name="dtb:uid" content="easypub-eb95ff0c" />
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:generator" content="EasyPub v1.44"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+
+<docTitle>
+<text>一品江山</text>
+</docTitle>
+<docAuthor>
+<text></text>
+</docAuthor>
+
+<navMap>
+<navPoint id="cover" playOrder="1">
+<navLabel><text>封面</text></navLabel>
+<content src="cover.html"/>
+</navPoint>
+
+<navPoint id="htmltoc" playOrder="2">
+<navLabel><text>目录</text></navLabel>
+<content src="book-toc.html"/>
+</navPoint>
+
+<navPoint id="chapter0" playOrder="3">
+<navLabel><text>序</text></navLabel>
+<content src="chapter0.html"/>
+</navPoint>
+
+<navPoint id="chapter1" playOrder="4">
+<navLabel><text>第一章 三郎、五郎和六郎 （上）</text></navLabel>
+<content src="chapter1.html"/>
+</navPoint>
+
+<navPoint id="chapter2" playOrder="5">
+<navLabel><text>新书上传第一章，求推荐票求收藏！</text></navLabel>
+<content src="chapter2.html"/>
+</navPoint>
+
+<navPoint id="chapter3" playOrder="6">
+<navLabel><text>第二章 三郎、五郎和六郎 （中）</text></navLabel>
+<content src="chapter3.html"/>
+</navPoint>
+
+<navPoint id="chapter4" playOrder="7">
+<navLabel><text>第三章 三郎、五郎和六郎 （下）</text></navLabel>
+<content src="chapter4.html"/>
+</navPoint>
+
+<navPoint id="chapter5" playOrder="8">
+<navLabel><text>第四章 盗亦有道</text></navLabel>
+<content src="chapter5.html"/>
+</navPoint>
+
+<navPoint id="chapter6" playOrder="9">
+<navLabel><text>第五章 算计</text></navLabel>
+<content src="chapter6.html"/>
+</navPoint>
+
+<navPoint id="chapter7" playOrder="10">
+<navLabel><text>第六章 拼命三郎</text></navLabel>
+<content src="chapter7.html"/>
+</navPoint>
+
+<navPoint id="chapter8" playOrder="11">
+<navLabel><text>第七章 眉山寻父</text></navLabel>
+<content src="chapter8.html"/>
+</navPoint>
+
+<navPoint id="chapter9" playOrder="12">
+<navLabel><text>第八章 苏氏</text></navLabel>
+<content src="chapter9.html"/>
+</navPoint>
+
+<navPoint id="chapter10" playOrder="13">
+<navLabel><text>第九章 陈希亮</text></navLabel>
+<content src="chapter10.html"/>
+</navPoint>
+
+<navPoint id="chapter11" playOrder="14">
+<navLabel><text>第十章 人要有文化</text></navLabel>
+<content src="chapter11.html"/>
+</navPoint>
+
+<navPoint id="chapter12" playOrder="15">
+<navLabel><text>第十一章 可怜天下父母心</text></navLabel>
+<content src="chapter12.html"/>
+</navPoint>
+
+<navPoint id="chapter13" playOrder="16">
+<navLabel><text>第十二章 我们宋朝不下跪</text></navLabel>
+<content src="chapter13.html"/>
+</navPoint>
+
+<navPoint id="chapter14" playOrder="17">
+<navLabel><text>第十三章 青神县</text></navLabel>
+<content src="chapter14.html"/>
+</navPoint>
+
+<navPoint id="chapter15" playOrder="18">
+<navLabel><text>第十四章 砍断肠</text></navLabel>
+<content src="chapter15.html"/>
+</navPoint>
+
+<navPoint id="chapter16" playOrder="19">
+<navLabel><text>第十五章 活在大宋</text></navLabel>
+<content src="chapter16.html"/>
+</navPoint>
+
+<navPoint id="chapter17" playOrder="20">
+<navLabel><text>第十六章 天生大厨</text></navLabel>
+<content src="chapter17.html"/>
+</navPoint>
+
+<navPoint id="chapter18" playOrder="21">
+<navLabel><text>第十七章 忘不了</text></navLabel>
+<content src="chapter18.html"/>
+</navPoint>
+
+<navPoint id="chapter19" playOrder="22">
+<navLabel><text>第十八章 谋生艰难</text></navLabel>
+<content src="chapter19.html"/>
+</navPoint>
+
+<navPoint id="chapter20" playOrder="23">
+<navLabel><text>第十九章 关扑</text></navLabel>
+<content src="chapter20.html"/>
+</navPoint>
+
+<navPoint id="chapter21" playOrder="24">
+<navLabel><text>第二十章 官帽椅</text></navLabel>
+<content src="chapter21.html"/>
+</navPoint>
+
+<navPoint id="chapter22" playOrder="25">
+<navLabel><text>第二十一章 传说中的神技</text></navLabel>
+<content src="chapter22.html"/>
+</navPoint>
+
+<navPoint id="chapter23" playOrder="26">
+<navLabel><text>第二十二章 干股</text></navLabel>
+<content src="chapter23.html"/>
+</navPoint>
+
+<navPoint id="chapter24" playOrder="27">
+<navLabel><text>第二十三章 急症</text></navLabel>
+<content src="chapter24.html"/>
+</navPoint>
+
+<navPoint id="chapter25" playOrder="28">
+<navLabel><text>第二十四章 弱爆了</text></navLabel>
+<content src="chapter25.html"/>
+</navPoint>
+
+<navPoint id="chapter26" playOrder="29">
+<navLabel><text>第二十五章 伤仲永</text></navLabel>
+<content src="chapter26.html"/>
+</navPoint>
+
+<navPoint id="chapter27" playOrder="30">
+<navLabel><text>第二十六章 书中自有颜如玉</text></navLabel>
+<content src="chapter27.html"/>
+</navPoint>
+
+<navPoint id="chapter28" playOrder="31">
+<navLabel><text>第二十七章 炼狱的开始</text></navLabel>
+<content src="chapter28.html"/>
+</navPoint>
+
+<navPoint id="chapter29" playOrder="32">
+<navLabel><text>第二十八章 做不做大师？</text></navLabel>
+<content src="chapter29.html"/>
+</navPoint>
+
+<navPoint id="chapter30" playOrder="33">
+<navLabel><text>第二十九章 幸福会远么？</text></navLabel>
+<content src="chapter30.html"/>
+</navPoint>
+
+<navPoint id="chapter31" playOrder="34">
+<navLabel><text>第三十章 开业</text></navLabel>
+<content src="chapter31.html"/>
+</navPoint>
+
+<navPoint id="chapter32" playOrder="35">
+<navLabel><text>第三十一章 一鸣惊人</text></navLabel>
+<content src="chapter32.html"/>
+</navPoint>
+
+<navPoint id="chapter33" playOrder="36">
+<navLabel><text>第三十二章 茱萸</text></navLabel>
+<content src="chapter33.html"/>
+</navPoint>
+
+<navPoint id="chapter34" playOrder="37">
+<navLabel><text>第三十三章 在宋朝的幸福生活</text></navLabel>
+<content src="chapter34.html"/>
+</navPoint>
+
+<navPoint id="chapter35" playOrder="38">
+<navLabel><text>第三十四章 美酒飘香</text></navLabel>
+<content src="chapter35.html"/>
+</navPoint>
+
+<navPoint id="chapter36" playOrder="39">
+<navLabel><text>第三十五章 给力！</text></navLabel>
+<content src="chapter36.html"/>
+</navPoint>
+
+<navPoint id="chapter37" playOrder="40">
+<navLabel><text>第三十六章 生意（求推荐、求三江票！）</text></navLabel>
+<content src="chapter37.html"/>
+</navPoint>
+
+<navPoint id="chapter38" playOrder="41">
+<navLabel><text>第三十七章 新火（求推荐票，求三江票！）</text></navLabel>
+<content src="chapter38.html"/>
+</navPoint>
+
+<navPoint id="chapter39" playOrder="42">
+<navLabel><text>第三十八章 生子当如陈三郎 （求票票）</text></navLabel>
+<content src="chapter39.html"/>
+</navPoint>
+
+<navPoint id="chapter40" playOrder="43">
+<navLabel><text>第三十九章 人人都爱陈三郎</text></navLabel>
+<content src="chapter40.html"/>
+</navPoint>
+
+<navPoint id="chapter41" playOrder="44">
+<navLabel><text>第四十章 正版天下</text></navLabel>
+<content src="chapter41.html"/>
+</navPoint>
+
+<navPoint id="chapter42" playOrder="45">
+<navLabel><text>第四十一章 福祸无常</text></navLabel>
+<content src="chapter42.html"/>
+</navPoint>
+
+<navPoint id="chapter43" playOrder="46">
+<navLabel><text>第四十二章 失传的巨着</text></navLabel>
+<content src="chapter43.html"/>
+</navPoint>
+
+<navPoint id="chapter44" playOrder="47">
+<navLabel><text>第四十三章 没有天生的大胡子</text></navLabel>
+<content src="chapter44.html"/>
+</navPoint>
+
+<navPoint id="chapter45" playOrder="48">
+<navLabel><text>第四十四章 世上再无李元昊</text></navLabel>
+<content src="chapter45.html"/>
+</navPoint>
+
+<navPoint id="chapter46" playOrder="49">
+<navLabel><text>第四十六章 天石砚</text></navLabel>
+<content src="chapter46.html"/>
+</navPoint>
+
+<navPoint id="chapter47" playOrder="50">
+<navLabel><text>第四十七章 包黑子很稀罕么？</text></navLabel>
+<content src="chapter47.html"/>
+</navPoint>
+
+<navPoint id="chapter48" playOrder="51">
+<navLabel><text>第四十八章 聚首</text></navLabel>
+<content src="chapter48.html"/>
+</navPoint>
+
+<navPoint id="chapter49" playOrder="52">
+<navLabel><text>第四十九章 比邻</text></navLabel>
+<content src="chapter49.html"/>
+</navPoint>
+
+<navPoint id="chapter50" playOrder="53">
+<navLabel><text>第五十章 问题少年</text></navLabel>
+<content src="chapter50.html"/>
+</navPoint>
+
+<navPoint id="chapter51" playOrder="54">
+<navLabel><text>第五十一章 中岩书院</text></navLabel>
+<content src="chapter51.html"/>
+</navPoint>
+
+<navPoint id="chapter52" playOrder="55">
+<navLabel><text>第五十二章 应试</text></navLabel>
+<content src="chapter52.html"/>
+</navPoint>
+
+<navPoint id="chapter53" playOrder="56">
+<navLabel><text>第五十三章 打虎亲兄弟</text></navLabel>
+<content src="chapter53.html"/>
+</navPoint>
+
+<navPoint id="chapter54" playOrder="57">
+<navLabel><text>第五十四章 西昆和太学</text></navLabel>
+<content src="chapter54.html"/>
+</navPoint>
+
+<navPoint id="chapter55" playOrder="58">
+<navLabel><text>第五十五章 恶霸</text></navLabel>
+<content src="chapter55.html"/>
+</navPoint>
+
+<navPoint id="chapter56" playOrder="59">
+<navLabel><text>第五十六章 小毛驴</text></navLabel>
+<content src="chapter56.html"/>
+</navPoint>
+
+<navPoint id="chapter57" playOrder="60">
+<navLabel><text>第五十七章 送别</text></navLabel>
+<content src="chapter57.html"/>
+</navPoint>
+
+<navPoint id="chapter58" playOrder="61">
+<navLabel><text>第五十八章 豪夺</text></navLabel>
+<content src="chapter58.html"/>
+</navPoint>
+
+<navPoint id="chapter59" playOrder="62">
+<navLabel><text>第五十九章 咱们老百姓，今儿个真高兴</text></navLabel>
+<content src="chapter59.html"/>
+</navPoint>
+
+<navPoint id="chapter60" playOrder="63">
+<navLabel><text>第六十章 反制</text></navLabel>
+<content src="chapter60.html"/>
+</navPoint>
+
+<navPoint id="chapter61" playOrder="64">
+<navLabel><text>第六十一章 姜还是老的辣</text></navLabel>
+<content src="chapter61.html"/>
+</navPoint>
+
+<navPoint id="chapter62" playOrder="65">
+<navLabel><text>第六十二章 岁月无痕</text></navLabel>
+<content src="chapter62.html"/>
+</navPoint>
+
+<navPoint id="chapter63" playOrder="66">
+<navLabel><text>第六十三章 蹴鞠</text></navLabel>
+<content src="chapter63.html"/>
+</navPoint>
+
+<navPoint id="chapter64" playOrder="67">
+<navLabel><text>第六十四章 小妹</text></navLabel>
+<content src="chapter64.html"/>
+</navPoint>
+
+<navPoint id="chapter65" playOrder="68">
+<navLabel><text>第六十五章 少女与字典</text></navLabel>
+<content src="chapter65.html"/>
+</navPoint>
+
+<navPoint id="chapter66" playOrder="69">
+<navLabel><text>第六十六章 重宝</text></navLabel>
+<content src="chapter66.html"/>
+</navPoint>
+
+<navPoint id="chapter67" playOrder="70">
+<navLabel><text>第六十六章重宝</text></navLabel>
+<content src="chapter67.html"/>
+</navPoint>
+
+<navPoint id="chapter68" playOrder="71">
+<navLabel><text>第六十六章重宝，到网址</text></navLabel>
+<content src="chapter68.html"/>
+</navPoint>
+
+<navPoint id="chapter69" playOrder="72">
+<navLabel><text>第六十七章 可怜父母心</text></navLabel>
+<content src="chapter69.html"/>
+</navPoint>
+
+<navPoint id="chapter70" playOrder="73">
+<navLabel><text>第六十八章 师表（加更送到，求推荐票！）</text></navLabel>
+<content src="chapter70.html"/>
+</navPoint>
+
+<navPoint id="chapter71" playOrder="74">
+<navLabel><text>第六十九章 八娘</text></navLabel>
+<content src="chapter71.html"/>
+</navPoint>
+
+<navPoint id="chapter72" playOrder="75">
+<navLabel><text>第七十章 男儿不该做备胎</text></navLabel>
+<content src="chapter72.html"/>
+</navPoint>
+
+<navPoint id="chapter73" playOrder="76">
+<navLabel><text>第七十一章 擅闯民宅</text></navLabel>
+<content src="chapter73.html"/>
+</navPoint>
+
+<navPoint id="chapter74" playOrder="77">
+<navLabel><text>第七十二章 人，要分清敌我</text></navLabel>
+<content src="chapter74.html"/>
+</navPoint>
+
+<navPoint id="chapter75" playOrder="78">
+<navLabel><text>第七十三章 千万不要得罪读书人</text></navLabel>
+<content src="chapter75.html"/>
+</navPoint>
+
+<navPoint id="chapter76" playOrder="79">
+<navLabel><text>第七十四章 傲娇的江卿</text></navLabel>
+<content src="chapter76.html"/>
+</navPoint>
+
+<navPoint id="chapter77" playOrder="80">
+<navLabel><text>第七十五章 过堂</text></navLabel>
+<content src="chapter77.html"/>
+</navPoint>
+
+<navPoint id="chapter78" playOrder="81">
+<navLabel><text>第七十六章 清白</text></navLabel>
+<content src="chapter78.html"/>
+</navPoint>
+
+<navPoint id="chapter79" playOrder="82">
+<navLabel><text>第七十七章 君欲东去</text></navLabel>
+<content src="chapter79.html"/>
+</navPoint>
+
+<navPoint id="chapter80" playOrder="83">
+<navLabel><text>第七十八章 出川</text></navLabel>
+<content src="chapter80.html"/>
+</navPoint>
+
+<navPoint id="chapter81" playOrder="84">
+<navLabel><text>第七十九章 岳阳楼</text></navLabel>
+<content src="chapter81.html"/>
+</navPoint>
+
+<navPoint id="chapter82" playOrder="85">
+<navLabel><text>第八十章 岭南乱</text></navLabel>
+<content src="chapter82.html"/>
+</navPoint>
+
+<navPoint id="chapter83" playOrder="86">
+<navLabel><text>第八十章岭南乱</text></navLabel>
+<content src="chapter83.html"/>
+</navPoint>
+
+<navPoint id="chapter84" playOrder="87">
+<navLabel><text>第八十一章 宿命的相遇</text></navLabel>
+<content src="chapter84.html"/>
+</navPoint>
+
+<navPoint id="chapter85" playOrder="88">
+<navLabel><text>第八十一章宿命的相遇</text></navLabel>
+<content src="chapter85.html"/>
+</navPoint>
+
+<navPoint id="chapter86" playOrder="89">
+<navLabel><text>第八十二章 惊变</text></navLabel>
+<content src="chapter86.html"/>
+</navPoint>
+
+<navPoint id="chapter87" playOrder="90">
+<navLabel><text>第八十二章惊变</text></navLabel>
+<content src="chapter87.html"/>
+</navPoint>
+
+<navPoint id="chapter88" playOrder="91">
+<navLabel><text>第八十三章 大案</text></navLabel>
+<content src="chapter88.html"/>
+</navPoint>
+
+<navPoint id="chapter89" playOrder="92">
+<navLabel><text>第八十三章大案</text></navLabel>
+<content src="chapter89.html"/>
+</navPoint>
+
+<navPoint id="chapter90" playOrder="93">
+<navLabel><text>第八十四章 探监 （首章求月票！）</text></navLabel>
+<content src="chapter90.html"/>
+</navPoint>
+
+<navPoint id="chapter91" playOrder="94">
+<navLabel><text>第八十四章探监（首章求月票！）</text></navLabel>
+<content src="chapter91.html"/>
+</navPoint>
+
+<navPoint id="chapter92" playOrder="95">
+<navLabel><text>第一章，求月票！求推荐票啊！</text></navLabel>
+<content src="chapter92.html"/>
+</navPoint>
+
+<navPoint id="chapter93" playOrder="96">
+<navLabel><text>第八十五章 丑闻 （二更求月票！）</text></navLabel>
+<content src="chapter93.html"/>
+</navPoint>
+
+<navPoint id="chapter94" playOrder="97">
+<navLabel><text>全文字无广告第八十五章丑闻（二更求月票！）</text></navLabel>
+<content src="chapter94.html"/>
+</navPoint>
+
+<navPoint id="chapter95" playOrder="98">
+<navLabel><text>第八十六章 余文帅 （三更求月票！）</text></navLabel>
+<content src="chapter95.html"/>
+</navPoint>
+
+<navPoint id="chapter96" playOrder="99">
+<navLabel><text>第八十六章余文帅（三更求月票！）</text></navLabel>
+<content src="chapter96.html"/>
+</navPoint>
+
+<navPoint id="chapter97" playOrder="100">
+<navLabel><text>哭死了，本来好端端第一，转眼就被落下一百票，看来和尚只能吐血更新了。今晚还码第四章！泣血求月票了，求订阅，求推荐了……</text></navLabel>
+<content src="chapter97.html"/>
+</navPoint>
+
+<navPoint id="chapter98" playOrder="101">
+<navLabel><text>第八十七章 大局（第四更求月票！）</text></navLabel>
+<content src="chapter98.html"/>
+</navPoint>
+
+<navPoint id="chapter99" playOrder="102">
+<navLabel><text>全文字无广告第八十七章大局（第四更求月票！）</text></navLabel>
+<content src="chapter99.html"/>
+</navPoint>
+
+<navPoint id="chapter100" playOrder="103">
+<navLabel><text>第八十八章 随风潜入夜</text></navLabel>
+<content src="chapter100.html"/>
+</navPoint>
+
+<navPoint id="chapter101" playOrder="104">
+<navLabel><text>第八十八章随风潜入夜</text></navLabel>
+<content src="chapter101.html"/>
+</navPoint>
+
+<navPoint id="chapter102" playOrder="105">
+<navLabel><text>第八十九章 月神显灵（求月票！）</text></navLabel>
+<content src="chapter102.html"/>
+</navPoint>
+
+<navPoint id="chapter103" playOrder="106">
+<navLabel><text>全文字无广告第八十九章月神显灵（求月票！）</text></navLabel>
+<content src="chapter103.html"/>
+</navPoint>
+
+<navPoint id="chapter104" playOrder="107">
+<navLabel><text>被人家甩得太苦逼了，虽然知道要快些，但我永远改不了以质为重的习惯，到现在才写出两章。我知道是不够的，现在就去码第三章，12点前发，如果今天到400票，不睡觉我也写出第四章，立字为证！</text></navLabel>
+<content src="chapter104.html"/>
+</navPoint>
+
+<navPoint id="chapter105" playOrder="108">
+<navLabel><text>第九十章 赵宗绩（求月票！）</text></navLabel>
+<content src="chapter105.html"/>
+</navPoint>
+
+<navPoint id="chapter106" playOrder="109">
+<navLabel><text>全文字无广告第九十章赵宗绩（求月票！）</text></navLabel>
+<content src="chapter106.html"/>
+</navPoint>
+
+<navPoint id="chapter107" playOrder="110">
+<navLabel><text>第九十一章 大宋的良心 （400票加更）</text></navLabel>
+<content src="chapter107.html"/>
+</navPoint>
+
+<navPoint id="chapter108" playOrder="111">
+<navLabel><text>第九十一章大宋的良心（400票加更）</text></navLabel>
+<content src="chapter108.html"/>
+</navPoint>
+
+<navPoint id="chapter109" playOrder="112">
+<navLabel><text>第九十二章 路</text></navLabel>
+<content src="chapter109.html"/>
+</navPoint>
+
+<navPoint id="chapter110" playOrder="113">
+<navLabel><text>全文字无广告第九十二章路</text></navLabel>
+<content src="chapter110.html"/>
+</navPoint>
+
+<navPoint id="chapter111" playOrder="114">
+<navLabel><text>第九十三章 欧阳修</text></navLabel>
+<content src="chapter111.html"/>
+</navPoint>
+
+<navPoint id="chapter112" playOrder="115">
+<navLabel><text>全文字无广告第九十三章欧阳修</text></navLabel>
+<content src="chapter112.html"/>
+</navPoint>
+
+<navPoint id="chapter113" playOrder="116">
+<navLabel><text>第九十三章 天听</text></navLabel>
+<content src="chapter113.html"/>
+</navPoint>
+
+<navPoint id="chapter114" playOrder="117">
+<navLabel><text>第九十三章天听</text></navLabel>
+<content src="chapter114.html"/>
+</navPoint>
+
+<navPoint id="chapter115" playOrder="118">
+<navLabel><text>第九十四章 换将</text></navLabel>
+<content src="chapter115.html"/>
+</navPoint>
+
+<navPoint id="chapter116" playOrder="119">
+<navLabel><text>第九十四章换将</text></navLabel>
+<content src="chapter116.html"/>
+</navPoint>
+
+<navPoint id="chapter117" playOrder="120">
+<navLabel><text>第九十五章 狄汉臣</text></navLabel>
+<content src="chapter117.html"/>
+</navPoint>
+
+<navPoint id="chapter118" playOrder="121">
+<navLabel><text>第九十五章狄汉臣</text></navLabel>
+<content src="chapter118.html"/>
+</navPoint>
+
+<navPoint id="chapter119" playOrder="122">
+<navLabel><text>第九十六章 人样子</text></navLabel>
+<content src="chapter119.html"/>
+</navPoint>
+
+<navPoint id="chapter120" playOrder="123">
+<navLabel><text>第九十七章 帝心 （500票加更）</text></navLabel>
+<content src="chapter120.html"/>
+</navPoint>
+
+<navPoint id="chapter121" playOrder="124">
+<navLabel><text>全文字无广告第九十七章帝心（500票加更）</text></navLabel>
+<content src="chapter121.html"/>
+</navPoint>
+
+<navPoint id="chapter122" playOrder="125">
+<navLabel><text>第九十八章 你敢杀我？</text></navLabel>
+<content src="chapter122.html"/>
+</navPoint>
+
+<navPoint id="chapter123" playOrder="126">
+<navLabel><text>第九十八章你敢杀我？</text></navLabel>
+<content src="chapter123.html"/>
+</navPoint>
+
+<navPoint id="chapter124" playOrder="127">
+<navLabel><text>第九十九章我敢！</text></navLabel>
+<content src="chapter124.html"/>
+</navPoint>
+
+<navPoint id="chapter125" playOrder="128">
+<navLabel><text>全文字无广告第九十九章我敢！</text></navLabel>
+<content src="chapter125.html"/>
+</navPoint>
+
+<navPoint id="chapter126" playOrder="129">
+<navLabel><text>第一百章 昆仑关</text></navLabel>
+<content src="chapter126.html"/>
+</navPoint>
+
+<navPoint id="chapter127" playOrder="130">
+<navLabel><text>全文字无广告第一百章昆仑关</text></navLabel>
+<content src="chapter127.html"/>
+</navPoint>
+
+<navPoint id="chapter128" playOrder="131">
+<navLabel><text>第一零一章 决战</text></navLabel>
+<content src="chapter128.html"/>
+</navPoint>
+
+<navPoint id="chapter129" playOrder="132">
+<navLabel><text>全文字无广告第一零一章决战</text></navLabel>
+<content src="chapter129.html"/>
+</navPoint>
+
+<navPoint id="chapter130" playOrder="133">
+<navLabel><text>第一零二章 杨家将</text></navLabel>
+<content src="chapter130.html"/>
+</navPoint>
+
+<navPoint id="chapter131" playOrder="134">
+<navLabel><text>全文字无广告第一零二章杨家将</text></navLabel>
+<content src="chapter131.html"/>
+</navPoint>
+
+<navPoint id="chapter132" playOrder="135">
+<navLabel><text>第一零三章 大捷 （四更求月票！）</text></navLabel>
+<content src="chapter132.html"/>
+</navPoint>
+
+<navPoint id="chapter133" playOrder="136">
+<navLabel><text>第一零三章大捷（四更求月票！）</text></navLabel>
+<content src="chapter133.html"/>
+</navPoint>
+
+<navPoint id="chapter134" playOrder="137">
+<navLabel><text>第一零三章 西南无战事</text></navLabel>
+<content src="chapter134.html"/>
+</navPoint>
+
+<navPoint id="chapter135" playOrder="138">
+<navLabel><text>第一零三章西南无战事</text></navLabel>
+<content src="chapter135.html"/>
+</navPoint>
+
+<navPoint id="chapter136" playOrder="139">
+<navLabel><text>第一零三章西南无战事</text></navLabel>
+<content src="chapter136.html"/>
+</navPoint>
+
+<navPoint id="chapter137" playOrder="140">
+<navLabel><text>第一零三章西南无战事，到网址</text></navLabel>
+<content src="chapter137.html"/>
+</navPoint>
+
+<navPoint id="chapter138" playOrder="141">
+<navLabel><text>第一零四章 赏罚分明</text></navLabel>
+<content src="chapter138.html"/>
+</navPoint>
+
+<navPoint id="chapter139" playOrder="142">
+<navLabel><text>第一零四章赏罚分明</text></navLabel>
+<content src="chapter139.html"/>
+</navPoint>
+
+<navPoint id="chapter140" playOrder="143">
+<navLabel><text>第一零四章赏罚分明</text></navLabel>
+<content src="chapter140.html"/>
+</navPoint>
+
+<navPoint id="chapter141" playOrder="144">
+<navLabel><text>第一零五章 又是一年三月三</text></navLabel>
+<content src="chapter141.html"/>
+</navPoint>
+
+<navPoint id="chapter142" playOrder="145">
+<navLabel><text>第一零五章又是一年三月三</text></navLabel>
+<content src="chapter142.html"/>
+</navPoint>
+
+<navPoint id="chapter143" playOrder="146">
+<navLabel><text>第一零五章又是一年三月三</text></navLabel>
+<content src="chapter143.html"/>
+</navPoint>
+
+<navPoint id="chapter144" playOrder="147">
+<navLabel><text>第一零六章 寿辰</text></navLabel>
+<content src="chapter144.html"/>
+</navPoint>
+
+<navPoint id="chapter145" playOrder="148">
+<navLabel><text>全文字无广告第一零六章寿辰</text></navLabel>
+<content src="chapter145.html"/>
+</navPoint>
+
+<navPoint id="chapter146" playOrder="149">
+<navLabel><text>第一零七章 礼物</text></navLabel>
+<content src="chapter146.html"/>
+</navPoint>
+
+<navPoint id="chapter147" playOrder="150">
+<navLabel><text>第一零七章礼物</text></navLabel>
+<content src="chapter147.html"/>
+</navPoint>
+
+<navPoint id="chapter148" playOrder="151">
+<navLabel><text>第一零八章 回归</text></navLabel>
+<content src="chapter148.html"/>
+</navPoint>
+
+<navPoint id="chapter149" playOrder="152">
+<navLabel><text>全文字无广告第一零八章回归</text></navLabel>
+<content src="chapter149.html"/>
+</navPoint>
+
+<navPoint id="chapter150" playOrder="153">
+<navLabel><text>第一零九章 移民</text></navLabel>
+<content src="chapter150.html"/>
+</navPoint>
+
+<navPoint id="chapter151" playOrder="154">
+<navLabel><text>全文字无广告第一零九章移民</text></navLabel>
+<content src="chapter151.html"/>
+</navPoint>
+
+<navPoint id="chapter152" playOrder="155">
+<navLabel><text>第一一零章 汴梁</text></navLabel>
+<content src="chapter152.html"/>
+</navPoint>
+
+<navPoint id="chapter153" playOrder="156">
+<navLabel><text>全文字无广告第一一零章汴梁</text></navLabel>
+<content src="chapter153.html"/>
+</navPoint>
+
+<navPoint id="chapter154" playOrder="157">
+<navLabel><text>第一一一章 后娘</text></navLabel>
+<content src="chapter154.html"/>
+</navPoint>
+
+<navPoint id="chapter155" playOrder="158">
+<navLabel><text>第一一二章 小亮哥的情事</text></navLabel>
+<content src="chapter155.html"/>
+</navPoint>
+
+<navPoint id="chapter156" playOrder="159">
+<navLabel><text>第一一二章小亮哥的情事</text></navLabel>
+<content src="chapter156.html"/>
+</navPoint>
+
+<navPoint id="chapter157" playOrder="160">
+<navLabel><text>第一一三章 一赐乐业人</text></navLabel>
+<content src="chapter157.html"/>
+</navPoint>
+
+<navPoint id="chapter158" playOrder="161">
+<navLabel><text>全文字无广告第一一三章一赐乐业人</text></navLabel>
+<content src="chapter158.html"/>
+</navPoint>
+
+<navPoint id="chapter159" playOrder="162">
+<navLabel><text>第一一四章 大生意</text></navLabel>
+<content src="chapter159.html"/>
+</navPoint>
+
+<navPoint id="chapter160" playOrder="163">
+<navLabel><text>第一一四章大生意</text></navLabel>
+<content src="chapter160.html"/>
+</navPoint>
+
+<navPoint id="chapter161" playOrder="164">
+<navLabel><text>第一一五章 千年世家</text></navLabel>
+<content src="chapter161.html"/>
+</navPoint>
+
+<navPoint id="chapter162" playOrder="165">
+<navLabel><text>全文字无广告第一一五章千年世家</text></navLabel>
+<content src="chapter162.html"/>
+</navPoint>
+
+<navPoint id="chapter163" playOrder="166">
+<navLabel><text>第一一六章 皇帝的苦恼</text></navLabel>
+<content src="chapter163.html"/>
+</navPoint>
+
+<navPoint id="chapter164" playOrder="167">
+<navLabel><text>全文字无广告第一一六章皇帝的苦恼</text></navLabel>
+<content src="chapter164.html"/>
+</navPoint>
+
+<navPoint id="chapter165" playOrder="168">
+<navLabel><text>第一一七章 帝国之伤</text></navLabel>
+<content src="chapter165.html"/>
+</navPoint>
+
+<navPoint id="chapter166" playOrder="169">
+<navLabel><text>全文字无广告第一一七章帝国之伤</text></navLabel>
+<content src="chapter166.html"/>
+</navPoint>
+
+<navPoint id="chapter167" playOrder="170">
+<navLabel><text>第一一八章 疯掉的小王爷</text></navLabel>
+<content src="chapter167.html"/>
+</navPoint>
+
+<navPoint id="chapter168" playOrder="171">
+<navLabel><text>全文字无广告第一一八章疯掉的小王爷</text></navLabel>
+<content src="chapter168.html"/>
+</navPoint>
+
+<navPoint id="chapter169" playOrder="172">
+<navLabel><text>第一一九章 贤王</text></navLabel>
+<content src="chapter169.html"/>
+</navPoint>
+
+<navPoint id="chapter170" playOrder="173">
+<navLabel><text>全文字无广告第一一九章贤王</text></navLabel>
+<content src="chapter170.html"/>
+</navPoint>
+
+<navPoint id="chapter171" playOrder="174">
+<navLabel><text>第一二零章 误入藕花深处</text></navLabel>
+<content src="chapter171.html"/>
+</navPoint>
+
+<navPoint id="chapter172" playOrder="175">
+<navLabel><text>全文字无广告第一二零章误入藕花深处</text></navLabel>
+<content src="chapter172.html"/>
+</navPoint>
+
+<navPoint id="chapter173" playOrder="176">
+<navLabel><text>第一二一章 扑朔</text></navLabel>
+<content src="chapter173.html"/>
+</navPoint>
+
+<navPoint id="chapter174" playOrder="177">
+<navLabel><text>第一二一章扑朔</text></navLabel>
+<content src="chapter174.html"/>
+</navPoint>
+
+<navPoint id="chapter175" playOrder="178">
+<navLabel><text>第一二二章 兄弟多就是好啊！</text></navLabel>
+<content src="chapter175.html"/>
+</navPoint>
+
+<navPoint id="chapter176" playOrder="179">
+<navLabel><text>第一二二章兄弟多就是好啊！</text></navLabel>
+<content src="chapter176.html"/>
+</navPoint>
+
+<navPoint id="chapter177" playOrder="180">
+<navLabel><text>第一二三章 拉风的太学体！</text></navLabel>
+<content src="chapter177.html"/>
+</navPoint>
+
+<navPoint id="chapter178" playOrder="181">
+<navLabel><text>全文字无广告第一二三章拉风的太学体！</text></navLabel>
+<content src="chapter178.html"/>
+</navPoint>
+
+<navPoint id="chapter179" playOrder="182">
+<navLabel><text>第一二四章 更拉风的狄元帅！</text></navLabel>
+<content src="chapter179.html"/>
+</navPoint>
+
+<navPoint id="chapter180" playOrder="183">
+<navLabel><text>全文字无广告第一二四章更拉风的狄元帅！</text></navLabel>
+<content src="chapter180.html"/>
+</navPoint>
+
+<navPoint id="chapter181" playOrder="184">
+<navLabel><text>第一二五章 绝不放弃！</text></navLabel>
+<content src="chapter181.html"/>
+</navPoint>
+
+<navPoint id="chapter182" playOrder="185">
+<navLabel><text>全文字无广告第一二五章绝不放弃！</text></navLabel>
+<content src="chapter182.html"/>
+</navPoint>
+
+<navPoint id="chapter183" playOrder="186">
+<navLabel><text>第一二六章 无言</text></navLabel>
+<content src="chapter183.html"/>
+</navPoint>
+
+<navPoint id="chapter184" playOrder="187">
+<navLabel><text>全文字无广告第一二六章无言</text></navLabel>
+<content src="chapter184.html"/>
+</navPoint>
+
+<navPoint id="chapter185" playOrder="188">
+<navLabel><text>然而只过了几个时辰，天色刚刚擦黑，突然间河水猛涨、不可遏制，滚滚洪水倒卷回来，商胡在刚刚合龙不久，连民工和士兵都没有来得及，全从堤上撤下来时，就重新崩溃，上千条的人命，不计其数的物资，转眼就被洪水吞没。</text></navLabel>
+<content src="chapter185.html"/>
+</navPoint>
+
+<navPoint id="chapter186" playOrder="189">
+<navLabel><text>第一二七章 小日子</text></navLabel>
+<content src="chapter186.html"/>
+</navPoint>
+
+<navPoint id="chapter187" playOrder="190">
+<navLabel><text>全文字无广告第一二七章小日子</text></navLabel>
+<content src="chapter187.html"/>
+</navPoint>
+
+<navPoint id="chapter188" playOrder="191">
+<navLabel><text>第一二八章 可怜的三郎</text></navLabel>
+<content src="chapter188.html"/>
+</navPoint>
+
+<navPoint id="chapter189" playOrder="192">
+<navLabel><text>全文字无广告第一二八章可怜的三郎</text></navLabel>
+<content src="chapter189.html"/>
+</navPoint>
+
+<navPoint id="chapter190" playOrder="193">
+<navLabel><text>第一二九章 名人</text></navLabel>
+<content src="chapter190.html"/>
+</navPoint>
+
+<navPoint id="chapter191" playOrder="194">
+<navLabel><text>全文字无广告第一二九章名人</text></navLabel>
+<content src="chapter191.html"/>
+</navPoint>
+
+<navPoint id="chapter192" playOrder="195">
+<navLabel><text>第一三零章 灯火上楼台</text></navLabel>
+<content src="chapter192.html"/>
+</navPoint>
+
+<navPoint id="chapter193" playOrder="196">
+<navLabel><text>全文字无广告第一三零章灯火上楼台</text></navLabel>
+<content src="chapter193.html"/>
+</navPoint>
+
+<navPoint id="chapter194" playOrder="197">
+<navLabel><text>第一三一章 欢宴不夜天</text></navLabel>
+<content src="chapter194.html"/>
+</navPoint>
+
+<navPoint id="chapter195" playOrder="198">
+<navLabel><text>第一三一章欢宴不夜天</text></navLabel>
+<content src="chapter195.html"/>
+</navPoint>
+
+<navPoint id="chapter196" playOrder="199">
+<navLabel><text>第一三二章 天籁</text></navLabel>
+<content src="chapter196.html"/>
+</navPoint>
+
+<navPoint id="chapter197" playOrder="200">
+<navLabel><text>全文字无广告第一三二章天籁</text></navLabel>
+<content src="chapter197.html"/>
+</navPoint>
+
+<navPoint id="chapter198" playOrder="201">
+<navLabel><text>第一三三章 弄巧成拙</text></navLabel>
+<content src="chapter198.html"/>
+</navPoint>
+
+<navPoint id="chapter199" playOrder="202">
+<navLabel><text>第一三三章n&#242;ng巧成拙</text></navLabel>
+<content src="chapter199.html"/>
+</navPoint>
+
+<navPoint id="chapter200" playOrder="203">
+<navLabel><text>第一三四章 合谋</text></navLabel>
+<content src="chapter200.html"/>
+</navPoint>
+
+<navPoint id="chapter201" playOrder="204">
+<navLabel><text>第一三四章合谋</text></navLabel>
+<content src="chapter201.html"/>
+</navPoint>
+
+<navPoint id="chapter202" playOrder="205">
+<navLabel><text>第一三五章 千里镜</text></navLabel>
+<content src="chapter202.html"/>
+</navPoint>
+
+<navPoint id="chapter203" playOrder="206">
+<navLabel><text>第一三五章千里镜</text></navLabel>
+<content src="chapter203.html"/>
+</navPoint>
+
+<navPoint id="chapter204" playOrder="207">
+<navLabel><text>第一三六章 一个黑帮分子的自白</text></navLabel>
+<content src="chapter204.html"/>
+</navPoint>
+
+<navPoint id="chapter205" playOrder="208">
+<navLabel><text>第一三六章一个黑帮分子的自白</text></navLabel>
+<content src="chapter205.html"/>
+</navPoint>
+
+<navPoint id="chapter206" playOrder="209">
+<navLabel><text>第一三七章 开始下雨了</text></navLabel>
+<content src="chapter206.html"/>
+</navPoint>
+
+<navPoint id="chapter207" playOrder="210">
+<navLabel><text>全文字无广告第一三七章开始下雨了</text></navLabel>
+<content src="chapter207.html"/>
+</navPoint>
+
+<navPoint id="chapter208" playOrder="211">
+<navLabel><text>第一三八章 雨一直下</text></navLabel>
+<content src="chapter208.html"/>
+</navPoint>
+
+<navPoint id="chapter209" playOrder="212">
+<navLabel><text>第一三八章雨一直下</text></navLabel>
+<content src="chapter209.html"/>
+</navPoint>
+
+<navPoint id="chapter210" playOrder="213">
+<navLabel><text>第一三九章 我是你姨夫啊！</text></navLabel>
+<content src="chapter210.html"/>
+</navPoint>
+
+<navPoint id="chapter211" playOrder="214">
+<navLabel><text>全文字无广告第一三九章我是你姨夫啊！</text></navLabel>
+<content src="chapter211.html"/>
+</navPoint>
+
+<navPoint id="chapter212" playOrder="215">
+<navLabel><text>第一四零章 又忍不住了</text></navLabel>
+<content src="chapter212.html"/>
+</navPoint>
+
+<navPoint id="chapter213" playOrder="216">
+<navLabel><text>第一四零章又忍不住了</text></navLabel>
+<content src="chapter213.html"/>
+</navPoint>
+
+<navPoint id="chapter214" playOrder="217">
+<navLabel><text>第一四一章 天音水榭</text></navLabel>
+<content src="chapter214.html"/>
+</navPoint>
+
+<navPoint id="chapter215" playOrder="218">
+<navLabel><text>第一四一章天音水榭</text></navLabel>
+<content src="chapter215.html"/>
+</navPoint>
+
+<navPoint id="chapter216" playOrder="219">
+<navLabel><text>第一四二章 耳光</text></navLabel>
+<content src="chapter216.html"/>
+</navPoint>
+
+<navPoint id="chapter217" playOrder="220">
+<navLabel><text>全文字无广告第一四二章耳光</text></navLabel>
+<content src="chapter217.html"/>
+</navPoint>
+
+<navPoint id="chapter218" playOrder="221">
+<navLabel><text>第一四三章 白面老包</text></navLabel>
+<content src="chapter218.html"/>
+</navPoint>
+
+<navPoint id="chapter219" playOrder="222">
+<navLabel><text>第一四三章白面老包</text></navLabel>
+<content src="chapter219.html"/>
+</navPoint>
+
+<navPoint id="chapter220" playOrder="223">
+<navLabel><text>第一四四章 水淹七军</text></navLabel>
+<content src="chapter220.html"/>
+</navPoint>
+
+<navPoint id="chapter221" playOrder="224">
+<navLabel><text>第一四四章水淹七军</text></navLabel>
+<content src="chapter221.html"/>
+</navPoint>
+
+<navPoint id="chapter222" playOrder="225">
+<navLabel><text>第一四五章 杀戮</text></navLabel>
+<content src="chapter222.html"/>
+</navPoint>
+
+<navPoint id="chapter223" playOrder="226">
+<navLabel><text>第一四五章杀戮</text></navLabel>
+<content src="chapter223.html"/>
+</navPoint>
+
+<navPoint id="chapter224" playOrder="227">
+<navLabel><text>第一四六章 营救</text></navLabel>
+<content src="chapter224.html"/>
+</navPoint>
+
+<navPoint id="chapter225" playOrder="228">
+<navLabel><text>百书屋全文字第一四六章营救</text></navLabel>
+<content src="chapter225.html"/>
+</navPoint>
+
+<navPoint id="chapter226" playOrder="229">
+<navLabel><text>第一四七章 老巢</text></navLabel>
+<content src="chapter226.html"/>
+</navPoint>
+
+<navPoint id="chapter227" playOrder="230">
+<navLabel><text>百书屋全文字第一四七章老巢</text></navLabel>
+<content src="chapter227.html"/>
+</navPoint>
+
+<navPoint id="chapter228" playOrder="231">
+<navLabel><text>第一四八章 等闲变却故人心</text></navLabel>
+<content src="chapter228.html"/>
+</navPoint>
+
+<navPoint id="chapter229" playOrder="232">
+<navLabel><text>百书屋全文字第一四八章等闲变却故人心</text></navLabel>
+<content src="chapter229.html"/>
+</navPoint>
+
+<navPoint id="chapter230" playOrder="233">
+<navLabel><text>第二章。最近对不起大家，我尽量再码出一章……</text></navLabel>
+<content src="chapter230.html"/>
+</navPoint>
+
+<navPoint id="chapter231" playOrder="234">
+<navLabel><text>第一四九章 却道故人心易变</text></navLabel>
+<content src="chapter231.html"/>
+</navPoint>
+
+<navPoint id="chapter232" playOrder="235">
+<navLabel><text>百书屋全文字第一四九章却道故人心易变</text></navLabel>
+<content src="chapter232.html"/>
+</navPoint>
+
+<navPoint id="chapter233" playOrder="236">
+<navLabel><text>第一五零章 手术</text></navLabel>
+<content src="chapter233.html"/>
+</navPoint>
+
+<navPoint id="chapter234" playOrder="237">
+<navLabel><text>第一五零章手术</text></navLabel>
+<content src="chapter234.html"/>
+</navPoint>
+
+<navPoint id="chapter235" playOrder="238">
+<navLabel><text>第一五一章 战果</text></navLabel>
+<content src="chapter235.html"/>
+</navPoint>
+
+<navPoint id="chapter236" playOrder="239">
+<navLabel><text>第一五一章战果</text></navLabel>
+<content src="chapter236.html"/>
+</navPoint>
+
+<navPoint id="chapter237" playOrder="240">
+<navLabel><text>第一五二章 史上最强承事郎</text></navLabel>
+<content src="chapter237.html"/>
+</navPoint>
+
+<navPoint id="chapter238" playOrder="241">
+<navLabel><text>第一五二章史上最强承事郎</text></navLabel>
+<content src="chapter238.html"/>
+</navPoint>
+
+<navPoint id="chapter239" playOrder="242">
+<navLabel><text>第一五三章 宰相的念头</text></navLabel>
+<content src="chapter239.html"/>
+</navPoint>
+
+<navPoint id="chapter240" playOrder="243">
+<navLabel><text>第一五三章宰相的念头</text></navLabel>
+<content src="chapter240.html"/>
+</navPoint>
+
+<navPoint id="chapter241" playOrder="244">
+<navLabel><text>好容易坚持到皇帝痊愈，国政平稳，六塔河又被两个后生否定了，圣旨下来说，停工……谁知前线的一伙人，竟不甘心失败，强行合龙了商胡口，结果滚滚洪水倒卷回上游，造成了商胡重新决堤的悲剧，当场冲走千人、卷去千万贯的物资，下游五州之民，更是流离失所，损失惨重。</text></navLabel>
+<content src="chapter241.html"/>
+</navPoint>
+
+<navPoint id="chapter242" playOrder="245">
+<navLabel><text>第一五四章 王爷的野望</text></navLabel>
+<content src="chapter242.html"/>
+</navPoint>
+
+<navPoint id="chapter243" playOrder="246">
+<navLabel><text>第一五四章王爷的野望</text></navLabel>
+<content src="chapter243.html"/>
+</navPoint>
+
+<navPoint id="chapter244" playOrder="247">
+<navLabel><text>第一五五章 生为备胎的父子俩</text></navLabel>
+<content src="chapter244.html"/>
+</navPoint>
+
+<navPoint id="chapter245" playOrder="248">
+<navLabel><text>第一五五章生为备胎的父子俩</text></navLabel>
+<content src="chapter245.html"/>
+</navPoint>
+
+<navPoint id="chapter246" playOrder="249">
+<navLabel><text>第一五六章 暖水瓶</text></navLabel>
+<content src="chapter246.html"/>
+</navPoint>
+
+<navPoint id="chapter247" playOrder="250">
+<navLabel><text>第一五六章暖水瓶</text></navLabel>
+<content src="chapter247.html"/>
+</navPoint>
+
+<navPoint id="chapter248" playOrder="251">
+<navLabel><text>第一五七章 柳老太爷的刀</text></navLabel>
+<content src="chapter248.html"/>
+</navPoint>
+
+<navPoint id="chapter249" playOrder="252">
+<navLabel><text>第一五七章柳老太爷的刀</text></navLabel>
+<content src="chapter249.html"/>
+</navPoint>
+
+<navPoint id="chapter250" playOrder="253">
+<navLabel><text>第一五八章 三少爷的剑</text></navLabel>
+<content src="chapter250.html"/>
+</navPoint>
+
+<navPoint id="chapter251" playOrder="254">
+<navLabel><text>第一五八章三少爷的剑-</text></navLabel>
+<content src="chapter251.html"/>
+</navPoint>
+
+<navPoint id="chapter252" playOrder="255">
+<navLabel><text>第一五九章 水漫开封</text></navLabel>
+<content src="chapter252.html"/>
+</navPoint>
+
+<navPoint id="chapter253" playOrder="256">
+<navLabel><text>第一五九章水漫开封-</text></navLabel>
+<content src="chapter253.html"/>
+</navPoint>
+
+<navPoint id="chapter254" playOrder="257">
+<navLabel><text>第一六零章 狄青危局</text></navLabel>
+<content src="chapter254.html"/>
+</navPoint>
+
+<navPoint id="chapter255" playOrder="258">
+<navLabel><text>第一六零章狄青危局</text></navLabel>
+<content src="chapter255.html"/>
+</navPoint>
+
+<navPoint id="chapter256" playOrder="259">
+<navLabel><text>第一六一章 理想</text></navLabel>
+<content src="chapter256.html"/>
+</navPoint>
+
+<navPoint id="chapter257" playOrder="260">
+<navLabel><text>第一六一章理想-</text></navLabel>
+<content src="chapter257.html"/>
+</navPoint>
+
+<navPoint id="chapter258" playOrder="261">
+<navLabel><text>第一六二章 对策</text></navLabel>
+<content src="chapter258.html"/>
+</navPoint>
+
+<navPoint id="chapter259" playOrder="262">
+<navLabel><text>第一六二章对策</text></navLabel>
+<content src="chapter259.html"/>
+</navPoint>
+
+<navPoint id="chapter260" playOrder="263">
+<navLabel><text>第一六三章 特立独行</text></navLabel>
+<content src="chapter260.html"/>
+</navPoint>
+
+<navPoint id="chapter261" playOrder="264">
+<navLabel><text>&gt;第一六三章特立独行</text></navLabel>
+<content src="chapter261.html"/>
+</navPoint>
+
+<navPoint id="chapter262" playOrder="265">
+<navLabel><text>第一六四章 品茶</text></navLabel>
+<content src="chapter262.html"/>
+</navPoint>
+
+<navPoint id="chapter263" playOrder="266">
+<navLabel><text>第一六五章 论曲</text></navLabel>
+<content src="chapter263.html"/>
+</navPoint>
+
+<navPoint id="chapter264" playOrder="267">
+<navLabel><text>第一六六章 狄青保卫战之开篇</text></navLabel>
+<content src="chapter264.html"/>
+</navPoint>
+
+<navPoint id="chapter265" playOrder="268">
+<navLabel><text>第一六七章论曲</text></navLabel>
+<content src="chapter265.html"/>
+</navPoint>
+
+<navPoint id="chapter266" playOrder="269">
+<navLabel><text>第一六八章 狄青保卫战之开篇</text></navLabel>
+<content src="chapter266.html"/>
+</navPoint>
+
+<navPoint id="chapter267" playOrder="270">
+<navLabel><text>第一六八章狄青保卫战之开篇</text></navLabel>
+<content src="chapter267.html"/>
+</navPoint>
+
+<navPoint id="chapter268" playOrder="271">
+<navLabel><text>第一六九章 还治其身</text></navLabel>
+<content src="chapter268.html"/>
+</navPoint>
+
+<navPoint id="chapter269" playOrder="272">
+<navLabel><text>第一七零章 以其人之道</text></navLabel>
+<content src="chapter269.html"/>
+</navPoint>
+
+<navPoint id="chapter270" playOrder="273">
+<navLabel><text>第一七零章以其人之道</text></navLabel>
+<content src="chapter270.html"/>
+</navPoint>
+
+<navPoint id="chapter271" playOrder="274">
+<navLabel><text>第一七零章以其人之道</text></navLabel>
+<content src="chapter271.html"/>
+</navPoint>
+
+<navPoint id="chapter272" playOrder="275">
+<navLabel><text>第一七零章以其人之道，到网址</text></navLabel>
+<content src="chapter272.html"/>
+</navPoint>
+
+<navPoint id="chapter273" playOrder="276">
+<navLabel><text>第一七一章 狄青保卫战之蝴蝶---第一七二章 满江红</text></navLabel>
+<content src="chapter273.html"/>
+</navPoint>
+
+<navPoint id="chapter274" playOrder="277">
+<navLabel><text>第一七一章狄青保卫战之蝴蝶</text></navLabel>
+<content src="chapter274.html"/>
+</navPoint>
+
+<navPoint id="chapter275" playOrder="278">
+<navLabel><text>第一七三章 摸上门</text></navLabel>
+<content src="chapter275.html"/>
+</navPoint>
+
+<navPoint id="chapter276" playOrder="279">
+<navLabel><text>~《》~第一七三章摸上门</text></navLabel>
+<content src="chapter276.html"/>
+</navPoint>
+
+<navPoint id="chapter277" playOrder="280">
+<navLabel><text>第一七三章摸上门</text></navLabel>
+<content src="chapter277.html"/>
+</navPoint>
+
+<navPoint id="chapter278" playOrder="281">
+<navLabel><text>第一七三章摸上门，到网址</text></navLabel>
+<content src="chapter278.html"/>
+</navPoint>
+
+<navPoint id="chapter279" playOrder="282">
+<navLabel><text>第一七四章 **</text></navLabel>
+<content src="chapter279.html"/>
+</navPoint>
+
+<navPoint id="chapter280" playOrder="283">
+<navLabel><text>第一七四章**</text></navLabel>
+<content src="chapter280.html"/>
+</navPoint>
+
+<navPoint id="chapter281" playOrder="284">
+<navLabel><text>第一七五章 早朝</text></navLabel>
+<content src="chapter281.html"/>
+</navPoint>
+
+<navPoint id="chapter282" playOrder="285">
+<navLabel><text>第一七五章早朝</text></navLabel>
+<content src="chapter282.html"/>
+</navPoint>
+
+<navPoint id="chapter283" playOrder="286">
+<navLabel><text>第一七五章早朝，到网址</text></navLabel>
+<content src="chapter283.html"/>
+</navPoint>
+
+<navPoint id="chapter284" playOrder="287">
+<navLabel><text>第一七六章 罢相</text></navLabel>
+<content src="chapter284.html"/>
+</navPoint>
+
+<navPoint id="chapter285" playOrder="288">
+<navLabel><text>第一七六章罢相</text></navLabel>
+<content src="chapter285.html"/>
+</navPoint>
+
+<navPoint id="chapter286" playOrder="289">
+<navLabel><text>第一七六章罢相，到网址</text></navLabel>
+<content src="chapter286.html"/>
+</navPoint>
+
+<navPoint id="chapter287" playOrder="290">
+<navLabel><text>第一七七章 神功圣德碑</text></navLabel>
+<content src="chapter287.html"/>
+</navPoint>
+
+<navPoint id="chapter288" playOrder="291">
+<navLabel><text>第一七七章神功圣德碑</text></navLabel>
+<content src="chapter288.html"/>
+</navPoint>
+
+<navPoint id="chapter289" playOrder="292">
+<navLabel><text>第一七七章神功圣德碑，到网址</text></navLabel>
+<content src="chapter289.html"/>
+</navPoint>
+
+<navPoint id="chapter290" playOrder="293">
+<navLabel><text>第一七八章 秋闱</text></navLabel>
+<content src="chapter290.html"/>
+</navPoint>
+
+<navPoint id="chapter291" playOrder="294">
+<navLabel><text>第一七八章秋闱</text></navLabel>
+<content src="chapter291.html"/>
+</navPoint>
+
+<navPoint id="chapter292" playOrder="295">
+<navLabel><text>第一七八章秋闱，到网址</text></navLabel>
+<content src="chapter292.html"/>
+</navPoint>
+
+<navPoint id="chapter293" playOrder="296">
+<navLabel><text>第一八零章 应试之王</text></navLabel>
+<content src="chapter293.html"/>
+</navPoint>
+
+<navPoint id="chapter294" playOrder="297">
+<navLabel><text>第一八一章 写你妹的太学体</text></navLabel>
+<content src="chapter294.html"/>
+</navPoint>
+
+<navPoint id="chapter295" playOrder="298">
+<navLabel><text>第一八二章 大龙头的宝藏</text></navLabel>
+<content src="chapter295.html"/>
+</navPoint>
+
+<navPoint id="chapter296" playOrder="299">
+<navLabel><text>第一八三章 多少钱？</text></navLabel>
+<content src="chapter296.html"/>
+</navPoint>
+
+<navPoint id="chapter297" playOrder="300">
+<navLabel><text>第一八四章 斗智</text></navLabel>
+<content src="chapter297.html"/>
+</navPoint>
+
+<navPoint id="chapter298" playOrder="301">
+<navLabel><text>第一八九章 观礼</text></navLabel>
+<content src="chapter298.html"/>
+</navPoint>
+
+<navPoint id="chapter299" playOrder="302">
+<navLabel><text>第一九零章 富可敌国</text></navLabel>
+<content src="chapter299.html"/>
+</navPoint>
+
+<navPoint id="chapter300" playOrder="303">
+<navLabel><text>第一九零章富可敌国</text></navLabel>
+<content src="chapter300.html"/>
+</navPoint>
+
+<navPoint id="chapter301" playOrder="304">
+<navLabel><text>第一八八章 弥赛亚</text></navLabel>
+<content src="chapter301.html"/>
+</navPoint>
+
+<navPoint id="chapter302" playOrder="305">
+<navLabel><text>第一八八章弥赛亚</text></navLabel>
+<content src="chapter302.html"/>
+</navPoint>
+
+<navPoint id="chapter303" playOrder="306">
+<navLabel><text>第一八九章 遇刺</text></navLabel>
+<content src="chapter303.html"/>
+</navPoint>
+
+<navPoint id="chapter304" playOrder="307">
+<navLabel><text>第一九零章 状元楼</text></navLabel>
+<content src="chapter304.html"/>
+</navPoint>
+
+<navPoint id="chapter305" playOrder="308">
+<navLabel><text>第一九一章 解元斗</text></navLabel>
+<content src="chapter305.html"/>
+</navPoint>
+
+<navPoint id="chapter306" playOrder="309">
+<navLabel><text>第一九二章 璇玑图</text></navLabel>
+<content src="chapter306.html"/>
+</navPoint>
+
+<navPoint id="chapter307" playOrder="310">
+<navLabel><text>第一九三章 轰动</text></navLabel>
+<content src="chapter307.html"/>
+</navPoint>
+
+<navPoint id="chapter308" playOrder="311">
+<navLabel><text>第一九四章 邀请</text></navLabel>
+<content src="chapter308.html"/>
+</navPoint>
+
+<navPoint id="chapter309" playOrder="312">
+<navLabel><text>第一九五章 危局</text></navLabel>
+<content src="chapter309.html"/>
+</navPoint>
+
+<navPoint id="chapter310" playOrder="313">
+<navLabel><text>第一九六章 小郡主</text></navLabel>
+<content src="chapter310.html"/>
+</navPoint>
+
+<navPoint id="chapter311" playOrder="314">
+<navLabel><text>第一九七章 计将安出</text></navLabel>
+<content src="chapter311.html"/>
+</navPoint>
+
+<navPoint id="chapter312" playOrder="315">
+<navLabel><text>第一九七章计将安出</text></navLabel>
+<content src="chapter312.html"/>
+</navPoint>
+
+<navPoint id="chapter313" playOrder="316">
+<navLabel><text>第一九八章 一切从这里开始</text></navLabel>
+<content src="chapter313.html"/>
+</navPoint>
+
+<navPoint id="chapter314" playOrder="317">
+<navLabel><text>第一九九章 求种 （求月票！）</text></navLabel>
+<content src="chapter314.html"/>
+</navPoint>
+
+<navPoint id="chapter315" playOrder="318">
+<navLabel><text>第一九九章求种（求月票！）</text></navLabel>
+<content src="chapter315.html"/>
+</navPoint>
+
+<navPoint id="chapter316" playOrder="319">
+<navLabel><text>第二零零章 缔约</text></navLabel>
+<content src="chapter316.html"/>
+</navPoint>
+
+<navPoint id="chapter317" playOrder="320">
+<navLabel><text>第二零零章缔约</text></navLabel>
+<content src="chapter317.html"/>
+</navPoint>
+
+<navPoint id="chapter318" playOrder="321">
+<navLabel><text>“就是把协约分成三部分，在第一部分完成后，再执行第二部分；之后第二部分完成后，再执行最后的部分。”</text></navLabel>
+<content src="chapter318.html"/>
+</navPoint>
+
+<navPoint id="chapter319" playOrder="322">
+<navLabel><text>第二零一章 蓝</text></navLabel>
+<content src="chapter319.html"/>
+</navPoint>
+
+<navPoint id="chapter320" playOrder="323">
+<navLabel><text>第二零一章蓝图-</text></navLabel>
+<content src="chapter320.html"/>
+</navPoint>
+
+<navPoint id="chapter321" playOrder="324">
+<navLabel><text>但因为协议是独特的三段式，目前被jī活的，仅仅是第一部分——陈恪必须在五年内，为一赐乐业人，争取到在汴京城修建教堂的权力。作为对价，他将得到十二名会会计、jīng于管理的一赐乐业人，这些人将在五年内为他服务。至于五年后如何，却要看合约的完成情况了。</text></navLabel>
+<content src="chapter321.html"/>
+</navPoint>
+
+<navPoint id="chapter322" playOrder="325">
+<navLabel><text>我就知道你们永远比我强，转眼47票了，50票肯定没问题，所以不论多晚，我肯定要写出第三章来的。同志们，加油啊，马上距离三痴和老高，只有300票了（话说，三天前，我们是600票的差距……）(未完待续)</text></navLabel>
+<content src="chapter322.html"/>
+</navPoint>
+
+<navPoint id="chapter323" playOrder="326">
+<navLabel><text>第二零二章 客从故乡来</text></navLabel>
+<content src="chapter323.html"/>
+</navPoint>
+
+<navPoint id="chapter324" playOrder="327">
+<navLabel><text>第二零二章客从故乡来</text></navLabel>
+<content src="chapter324.html"/>
+</navPoint>
+
+<navPoint id="chapter325" playOrder="328">
+<navLabel><text>第二零三章 戏里戏外</text></navLabel>
+<content src="chapter325.html"/>
+</navPoint>
+
+<navPoint id="chapter326" playOrder="329">
+<navLabel><text>第二零四章 小亮哥婚礼</text></navLabel>
+<content src="chapter326.html"/>
+</navPoint>
+
+<navPoint id="chapter327" playOrder="330">
+<navLabel><text>第二零四章小亮哥婚礼</text></navLabel>
+<content src="chapter327.html"/>
+</navPoint>
+
+<navPoint id="chapter328" playOrder="331">
+<navLabel><text>第二零五章 老姜辣（一更求月票！）</text></navLabel>
+<content src="chapter328.html"/>
+</navPoint>
+
+<navPoint id="chapter329" playOrder="332">
+<navLabel><text>第二零五章</text></navLabel>
+<content src="chapter329.html"/>
+</navPoint>
+
+<navPoint id="chapter330" playOrder="333">
+<navLabel><text>第二零五章老姜辣（一更求月票！）</text></navLabel>
+<content src="chapter330.html"/>
+</navPoint>
+
+<navPoint id="chapter331" playOrder="334">
+<navLabel><text>第二零五章老姜辣（一更求月票！，到网址</text></navLabel>
+<content src="chapter331.html"/>
+</navPoint>
+
+<navPoint id="chapter332" playOrder="335">
+<navLabel><text>第二零六章 皇帝的初恋（二更求月票！）</text></navLabel>
+<content src="chapter332.html"/>
+</navPoint>
+
+<navPoint id="chapter333" playOrder="336">
+<navLabel><text>第二零六章皇帝的初恋（二更求月票！）</text></navLabel>
+<content src="chapter333.html"/>
+</navPoint>
+
+<navPoint id="chapter334" playOrder="337">
+<navLabel><text>第二零六章皇帝的初恋（二更求月票！）</text></navLabel>
+<content src="chapter334.html"/>
+</navPoint>
+
+<navPoint id="chapter335" playOrder="338">
+<navLabel><text>第二零六章皇帝的初恋（二更求月票！，到网址</text></navLabel>
+<content src="chapter335.html"/>
+</navPoint>
+
+<navPoint id="chapter336" playOrder="339">
+<navLabel><text>第二零七章 感同身受（三更求月票！）</text></navLabel>
+<content src="chapter336.html"/>
+</navPoint>
+
+<navPoint id="chapter337" playOrder="340">
+<navLabel><text>第二零七章感同身受（三更求月票！）</text></navLabel>
+<content src="chapter337.html"/>
+</navPoint>
+
+<navPoint id="chapter338" playOrder="341">
+<navLabel><text>第二零七章感同身受（三更求月票！）</text></navLabel>
+<content src="chapter338.html"/>
+</navPoint>
+
+<navPoint id="chapter339" playOrder="342">
+<navLabel><text>第二零七章感同身受（三更求月票！，到网址</text></navLabel>
+<content src="chapter339.html"/>
+</navPoint>
+
+<navPoint id="chapter340" playOrder="343">
+<navLabel><text>第二零八章 凡事总有例外（一更求月票！）</text></navLabel>
+<content src="chapter340.html"/>
+</navPoint>
+
+<navPoint id="chapter341" playOrder="344">
+<navLabel><text>第二零八章凡事总有例外（一更求月票！）</text></navLabel>
+<content src="chapter341.html"/>
+</navPoint>
+
+<navPoint id="chapter342" playOrder="345">
+<navLabel><text>第二零九章 条件</text></navLabel>
+<content src="chapter342.html"/>
+</navPoint>
+
+<navPoint id="chapter343" playOrder="346">
+<navLabel><text>第二一零章 纨绔</text></navLabel>
+<content src="chapter343.html"/>
+</navPoint>
+
+<navPoint id="chapter344" playOrder="347">
+<navLabel><text>第二一一章 老包 （四更泣血求月票！）</text></navLabel>
+<content src="chapter344.html"/>
+</navPoint>
+
+<navPoint id="chapter345" playOrder="348">
+<navLabel><text>第二一二章 进门（中秋快乐！）</text></navLabel>
+<content src="chapter345.html"/>
+</navPoint>
+
+<navPoint id="chapter346" playOrder="349">
+<navLabel><text>第二一二章进m&#233;n（中秋快乐！）</text></navLabel>
+<content src="chapter346.html"/>
+</navPoint>
+
+<navPoint id="chapter347" playOrder="350">
+<navLabel><text>第二一三章 漫长一夜（求十月保底月票！）</text></navLabel>
+<content src="chapter347.html"/>
+</navPoint>
+
+<navPoint id="chapter348" playOrder="351">
+<navLabel><text>第二一四章 说客</text></navLabel>
+<content src="chapter348.html"/>
+</navPoint>
+
+<navPoint id="chapter349" playOrder="352">
+<navLabel><text>第二一五章 星空（大声疾呼求月票！）</text></navLabel>
+<content src="chapter349.html"/>
+</navPoint>
+
+<navPoint id="chapter350" playOrder="353">
+<navLabel><text>今天其实出了趟远门，一上午都没时间写字。但这不是理由，我回来噼里啪啦写到现在，码出了第一章。晚上最少还有两章！</text></navLabel>
+<content src="chapter350.html"/>
+</navPoint>
+
+<navPoint id="chapter351" playOrder="354">
+<navLabel><text>第二一五章星空（大声疾呼求月票！）</text></navLabel>
+<content src="chapter351.html"/>
+</navPoint>
+
+<navPoint id="chapter352" playOrder="355">
+<navLabel><text>第二一五章星空（大声疾呼求月票！，到网址</text></navLabel>
+<content src="chapter352.html"/>
+</navPoint>
+
+<navPoint id="chapter353" playOrder="356">
+<navLabel><text>第二一六章 星空（求月票！）</text></navLabel>
+<content src="chapter353.html"/>
+</navPoint>
+
+<navPoint id="chapter354" playOrder="357">
+<navLabel><text>第二一六章星空（求月票！）</text></navLabel>
+<content src="chapter354.html"/>
+</navPoint>
+
+<navPoint id="chapter355" playOrder="358">
+<navLabel><text>第二一六章星空（求月票！，到网址</text></navLabel>
+<content src="chapter355.html"/>
+</navPoint>
+
+<navPoint id="chapter356" playOrder="359">
+<navLabel><text>第二一七章 壮士断腕（三更求月票！）</text></navLabel>
+<content src="chapter356.html"/>
+</navPoint>
+
+<navPoint id="chapter357" playOrder="360">
+<navLabel><text>第二一七章壮士断腕（三更求月票！）</text></navLabel>
+<content src="chapter357.html"/>
+</navPoint>
+
+<navPoint id="chapter358" playOrder="361">
+<navLabel><text>第二一八章 （一更求月票！）</text></navLabel>
+<content src="chapter358.html"/>
+</navPoint>
+
+<navPoint id="chapter359" playOrder="362">
+<navLabel><text>第二一八章（一更求月票！）</text></navLabel>
+<content src="chapter359.html"/>
+</navPoint>
+
+<navPoint id="chapter360" playOrder="363">
+<navLabel><text>第二一八章（一更求月票！，到网址</text></navLabel>
+<content src="chapter360.html"/>
+</navPoint>
+
+<navPoint id="chapter361" playOrder="364">
+<navLabel><text>第二一九章 暗战</text></navLabel>
+<content src="chapter361.html"/>
+</navPoint>
+
+<navPoint id="chapter362" playOrder="365">
+<navLabel><text>第二一九章暗战</text></navLabel>
+<content src="chapter362.html"/>
+</navPoint>
+
+<navPoint id="chapter363" playOrder="366">
+<navLabel><text>第二一九章暗战，到网址</text></navLabel>
+<content src="chapter363.html"/>
+</navPoint>
+
+<navPoint id="chapter364" playOrder="367">
+<navLabel><text>第二二零章 硝烟散去</text></navLabel>
+<content src="chapter364.html"/>
+</navPoint>
+
+<navPoint id="chapter365" playOrder="368">
+<navLabel><text>第二二零章硝烟散去</text></navLabel>
+<content src="chapter365.html"/>
+</navPoint>
+
+<navPoint id="chapter366" playOrder="369">
+<navLabel><text>第二二零章硝烟散去，到网址</text></navLabel>
+<content src="chapter366.html"/>
+</navPoint>
+
+<navPoint id="chapter367" playOrder="370">
+<navLabel><text>第二三零章 黄金地段（四更求月票！）</text></navLabel>
+<content src="chapter367.html"/>
+</navPoint>
+
+<navPoint id="chapter368" playOrder="371">
+<navLabel><text>第二三零章黄金地段（四更求月票！）</text></navLabel>
+<content src="chapter368.html"/>
+</navPoint>
+
+<navPoint id="chapter369" playOrder="372">
+<navLabel><text>第二三零章黄金地段（四更求月票！）</text></navLabel>
+<content src="chapter369.html"/>
+</navPoint>
+
+<navPoint id="chapter370" playOrder="373">
+<navLabel><text>第二三零章黄金地段（四更求月票！，到网址</text></navLabel>
+<content src="chapter370.html"/>
+</navPoint>
+
+<navPoint id="chapter371" playOrder="374">
+<navLabel><text>第二二二章 青天 （为了这么二的章节号求月票）</text></navLabel>
+<content src="chapter371.html"/>
+</navPoint>
+
+<navPoint id="chapter372" playOrder="375">
+<navLabel><text>第二二二章青天（为了这么二的章节号求月票）</text></navLabel>
+<content src="chapter372.html"/>
+</navPoint>
+
+<navPoint id="chapter373" playOrder="376">
+<navLabel><text>第二二二章青天（为了这么二的章节号求月票，到网址</text></navLabel>
+<content src="chapter373.html"/>
+</navPoint>
+
+<navPoint id="chapter374" playOrder="377">
+<navLabel><text>第二二三章 生财之道</text></navLabel>
+<content src="chapter374.html"/>
+</navPoint>
+
+<navPoint id="chapter375" playOrder="378">
+<navLabel><text>第二二三章生财之道</text></navLabel>
+<content src="chapter375.html"/>
+</navPoint>
+
+<navPoint id="chapter376" playOrder="379">
+<navLabel><text>第二二三章生财之道</text></navLabel>
+<content src="chapter376.html"/>
+</navPoint>
+
+<navPoint id="chapter377" playOrder="380">
+<navLabel><text>第二二三章生财之道，到网址</text></navLabel>
+<content src="chapter377.html"/>
+</navPoint>
+
+<navPoint id="chapter378" playOrder="381">
+<navLabel><text>第二二四章 违章建筑 （一更求月票！）</text></navLabel>
+<content src="chapter378.html"/>
+</navPoint>
+
+<navPoint id="chapter379" playOrder="382">
+<navLabel><text>第二二四章违章建筑（一更求月票！）</text></navLabel>
+<content src="chapter379.html"/>
+</navPoint>
+
+<navPoint id="chapter380" playOrder="383">
+<navLabel><text>第二二四章违章建筑（一更求月票！，到网址</text></navLabel>
+<content src="chapter380.html"/>
+</navPoint>
+
+<navPoint id="chapter381" playOrder="384">
+<navLabel><text>第二二五章 大生意（两更求月票！）</text></navLabel>
+<content src="chapter381.html"/>
+</navPoint>
+
+<navPoint id="chapter382" playOrder="385">
+<navLabel><text>第二二五章大生意（两更求月票！）</text></navLabel>
+<content src="chapter382.html"/>
+</navPoint>
+
+<navPoint id="chapter383" playOrder="386">
+<navLabel><text>第二二五章大生意（两更求月票！，到网址</text></navLabel>
+<content src="chapter383.html"/>
+</navPoint>
+
+<navPoint id="chapter384" playOrder="387">
+<navLabel><text>第二二六章 巨资</text></navLabel>
+<content src="chapter384.html"/>
+</navPoint>
+
+<navPoint id="chapter385" playOrder="388">
+<navLabel><text>第二二六章巨资</text></navLabel>
+<content src="chapter385.html"/>
+</navPoint>
+
+<navPoint id="chapter386" playOrder="389">
+<navLabel><text>第二二六章巨资，到网址</text></navLabel>
+<content src="chapter386.html"/>
+</navPoint>
+
+<navPoint id="chapter387" playOrder="390">
+<navLabel><text>第二二八章 汴京钱号</text></navLabel>
+<content src="chapter387.html"/>
+</navPoint>
+
+<navPoint id="chapter388" playOrder="391">
+<navLabel><text>第二二八章汴京钱号</text></navLabel>
+<content src="chapter388.html"/>
+</navPoint>
+
+<navPoint id="chapter389" playOrder="392">
+<navLabel><text>第二二八章汴京钱号</text></navLabel>
+<content src="chapter389.html"/>
+</navPoint>
+
+<navPoint id="chapter390" playOrder="393">
+<navLabel><text>第二二八章汴京钱号，到网址</text></navLabel>
+<content src="chapter390.html"/>
+</navPoint>
+
+<navPoint id="chapter391" playOrder="394">
+<navLabel><text>第二二九章 开张</text></navLabel>
+<content src="chapter391.html"/>
+</navPoint>
+
+<navPoint id="chapter392" playOrder="395">
+<navLabel><text>第二二九章开张</text></navLabel>
+<content src="chapter392.html"/>
+</navPoint>
+
+<navPoint id="chapter393" playOrder="396">
+<navLabel><text>第二二九章开张</text></navLabel>
+<content src="chapter393.html"/>
+</navPoint>
+
+<navPoint id="chapter394" playOrder="397">
+<navLabel><text>第二二九章开张，到网址</text></navLabel>
+<content src="chapter394.html"/>
+</navPoint>
+
+<navPoint id="chapter395" playOrder="398">
+<navLabel><text>第二三零章 用钱压死你！ （夜半三更求月票！！！）</text></navLabel>
+<content src="chapter395.html"/>
+</navPoint>
+
+<navPoint id="chapter396" playOrder="399">
+<navLabel><text>第二三零章用钱压死你！（夜半三更求月票！！！）</text></navLabel>
+<content src="chapter396.html"/>
+</navPoint>
+
+<navPoint id="chapter397" playOrder="400">
+<navLabel><text>第二三零章用钱压死你！（夜半三更求月票！！！）</text></navLabel>
+<content src="chapter397.html"/>
+</navPoint>
+
+<navPoint id="chapter398" playOrder="401">
+<navLabel><text>第二三零章用钱压死你！（夜半三更求月票！！！，到网址</text></navLabel>
+<content src="chapter398.html"/>
+</navPoint>
+
+<navPoint id="chapter399" playOrder="402">
+<navLabel><text>第二三一章 买扑大会</text></navLabel>
+<content src="chapter399.html"/>
+</navPoint>
+
+<navPoint id="chapter400" playOrder="403">
+<navLabel><text>第二三一章</text></navLabel>
+<content src="chapter400.html"/>
+</navPoint>
+
+<navPoint id="chapter401" playOrder="404">
+<navLabel><text>第二三一章买扑大会</text></navLabel>
+<content src="chapter401.html"/>
+</navPoint>
+
+<navPoint id="chapter402" playOrder="405">
+<navLabel><text>第二三一章买扑大，到网址</text></navLabel>
+<content src="chapter402.html"/>
+</navPoint>
+
+<navPoint id="chapter403" playOrder="406">
+<navLabel><text>第二三二章 绮媚儿</text></navLabel>
+<content src="chapter403.html"/>
+</navPoint>
+
+<navPoint id="chapter404" playOrder="407">
+<navLabel><text>第二三二章绮媚儿</text></navLabel>
+<content src="chapter404.html"/>
+</navPoint>
+
+<navPoint id="chapter405" playOrder="408">
+<navLabel><text>第二三二章绮媚儿</text></navLabel>
+<content src="chapter405.html"/>
+</navPoint>
+
+<navPoint id="chapter406" playOrder="409">
+<navLabel><text>第二三二章绮媚儿，到网址</text></navLabel>
+<content src="chapter406.html"/>
+</navPoint>
+
+<navPoint id="chapter407" playOrder="410">
+<navLabel><text>第二三四章 好诗好诗！（最后的双倍求月票！！）</text></navLabel>
+<content src="chapter407.html"/>
+</navPoint>
+
+<navPoint id="chapter408" playOrder="411">
+<navLabel><text>第二三四章好诗好诗！（最后的双倍求月票！！）</text></navLabel>
+<content src="chapter408.html"/>
+</navPoint>
+
+<navPoint id="chapter409" playOrder="412">
+<navLabel><text>第二三四章好诗好诗！（最后的双倍求月票！！）</text></navLabel>
+<content src="chapter409.html"/>
+</navPoint>
+
+<navPoint id="chapter410" playOrder="413">
+<navLabel><text>第二三四章好诗好诗！（最后的双倍求月票！！，到网址</text></navLabel>
+<content src="chapter410.html"/>
+</navPoint>
+
+<navPoint id="chapter411" playOrder="414">
+<navLabel><text>第二三六章 （最后四小时求月票！！）</text></navLabel>
+<content src="chapter411.html"/>
+</navPoint>
+
+<navPoint id="chapter412" playOrder="415">
+<navLabel><text>第二三六章（最后四小时求月票！！）</text></navLabel>
+<content src="chapter412.html"/>
+</navPoint>
+
+<navPoint id="chapter413" playOrder="416">
+<navLabel><text>第二章，还有两更。在大家的努力下，尤其是fning大大的大力协助下，咱们暂时摆脱了危险，且距离前一名，只有30票之遥。亲，你懂的……</text></navLabel>
+<content src="chapter413.html"/>
+</navPoint>
+
+<navPoint id="chapter414" playOrder="417">
+<navLabel><text>第二三六章（最后四小时求月票！！）</text></navLabel>
+<content src="chapter414.html"/>
+</navPoint>
+
+<navPoint id="chapter415" playOrder="418">
+<navLabel><text>第二三六章（最后四小时求月票！！，到网址</text></navLabel>
+<content src="chapter415.html"/>
+</navPoint>
+
+<navPoint id="chapter416" playOrder="419">
+<navLabel><text>第二三七章 买地</text></navLabel>
+<content src="chapter416.html"/>
+</navPoint>
+
+<navPoint id="chapter417" playOrder="420">
+<navLabel><text>第二三七章买地</text></navLabel>
+<content src="chapter417.html"/>
+</navPoint>
+
+<navPoint id="chapter418" playOrder="421">
+<navLabel><text>第二三七章买，到网址</text></navLabel>
+<content src="chapter418.html"/>
+</navPoint>
+
+<navPoint id="chapter419" playOrder="422">
+<navLabel><text>第二三八章 一切只是开始</text></navLabel>
+<content src="chapter419.html"/>
+</navPoint>
+
+<navPoint id="chapter420" playOrder="423">
+<navLabel><text>第二三八章一切只是开始</text></navLabel>
+<content src="chapter420.html"/>
+</navPoint>
+
+<navPoint id="chapter421" playOrder="424">
+<navLabel><text>第二三八章一切只是开始，到网址</text></navLabel>
+<content src="chapter421.html"/>
+</navPoint>
+
+<navPoint id="chapter422" playOrder="425">
+<navLabel><text>第二三九章 入股</text></navLabel>
+<content src="chapter422.html"/>
+</navPoint>
+
+<navPoint id="chapter423" playOrder="426">
+<navLabel><text>第二四零章 礼物</text></navLabel>
+<content src="chapter423.html"/>
+</navPoint>
+
+<navPoint id="chapter424" playOrder="427">
+<navLabel><text>第二四一章 了结</text></navLabel>
+<content src="chapter424.html"/>
+</navPoint>
+
+<navPoint id="chapter425" playOrder="428">
+<navLabel><text>第二四二章 挤兑</text></navLabel>
+<content src="chapter425.html"/>
+</navPoint>
+
+<navPoint id="chapter426" playOrder="429">
+<navLabel><text>第二四五章 熬过寒冬（三更求月票！）</text></navLabel>
+<content src="chapter426.html"/>
+</navPoint>
+
+<navPoint id="chapter427" playOrder="430">
+<navLabel><text>第二四四章 才子、大儒与奸臣</text></navLabel>
+<content src="chapter427.html"/>
+</navPoint>
+
+<navPoint id="chapter428" playOrder="431">
+<navLabel><text>第二四五章 历史照进现实</text></navLabel>
+<content src="chapter428.html"/>
+</navPoint>
+
+<navPoint id="chapter429" playOrder="432">
+<navLabel><text>第二四六章 宣战 （三更求月票！）</text></navLabel>
+<content src="chapter429.html"/>
+</navPoint>
+
+<navPoint id="chapter430" playOrder="433">
+<navLabel><text>第二四七章 新春</text></navLabel>
+<content src="chapter430.html"/>
+</navPoint>
+
+<navPoint id="chapter431" playOrder="434">
+<navLabel><text>第二四八章 群贤毕至</text></navLabel>
+<content src="chapter431.html"/>
+</navPoint>
+
+<navPoint id="chapter432" playOrder="435">
+<navLabel><text>第二四九章 新酒赋 （一更求月票！）</text></navLabel>
+<content src="chapter432.html"/>
+</navPoint>
+
+<navPoint id="chapter433" playOrder="436">
+<navLabel><text>第一章，还有三章！没有比这更动人的话了吧？那就求一求票吧……未完待续</text></navLabel>
+<content src="chapter433.html"/>
+</navPoint>
+
+<navPoint id="chapter434" playOrder="437">
+<navLabel><text>第二百五章 王安石 （为二百五求月票！）</text></navLabel>
+<content src="chapter434.html"/>
+</navPoint>
+
+<navPoint id="chapter435" playOrder="438">
+<navLabel><text>第二五一章 主考 （三更求月票！）</text></navLabel>
+<content src="chapter435.html"/>
+</navPoint>
+
+<navPoint id="chapter436" playOrder="439">
+<navLabel><text>第二五二章 （四更求月票！）</text></navLabel>
+<content src="chapter436.html"/>
+</navPoint>
+
+<navPoint id="chapter437" playOrder="440">
+<navLabel><text>第二五三章 古文</text></navLabel>
+<content src="chapter437.html"/>
+</navPoint>
+
+<navPoint id="chapter438" playOrder="441">
+<navLabel><text>第二五四章 春闱</text></navLabel>
+<content src="chapter438.html"/>
+</navPoint>
+
+<navPoint id="chapter439" playOrder="442">
+<navLabel><text>第二五五章 不屈</text></navLabel>
+<content src="chapter439.html"/>
+</navPoint>
+
+<navPoint id="chapter440" playOrder="443">
+<navLabel><text>第二五六章 一群逆天贼</text></navLabel>
+<content src="chapter440.html"/>
+</navPoint>
+
+<navPoint id="chapter441" playOrder="444">
+<navLabel><text>第二五七章 决断</text></navLabel>
+<content src="chapter441.html"/>
+</navPoint>
+
+<navPoint id="chapter442" playOrder="445">
+<navLabel><text>第二五八章 雷厉风行</text></navLabel>
+<content src="chapter442.html"/>
+</navPoint>
+
+<navPoint id="chapter443" playOrder="446">
+<navLabel><text>第二五九章 信念</text></navLabel>
+<content src="chapter443.html"/>
+</navPoint>
+
+<navPoint id="chapter444" playOrder="447">
+<navLabel><text>第二六零章 鹅毛笔</text></navLabel>
+<content src="chapter444.html"/>
+</navPoint>
+
+<navPoint id="chapter445" playOrder="448">
+<navLabel><text>第二六一章 判卷</text></navLabel>
+<content src="chapter445.html"/>
+</navPoint>
+
+<navPoint id="chapter446" playOrder="449">
+<navLabel><text>第二六二章 水刑</text></navLabel>
+<content src="chapter446.html"/>
+</navPoint>
+
+<navPoint id="chapter447" playOrder="450">
+<navLabel><text>第二六三章 以彼之道</text></navLabel>
+<content src="chapter447.html"/>
+</navPoint>
+
+<navPoint id="chapter448" playOrder="451">
+<navLabel><text>第二六四章 还施彼身</text></navLabel>
+<content src="chapter448.html"/>
+</navPoint>
+
+<navPoint id="chapter449" playOrder="452">
+<navLabel><text>第二六五章 榜下捉婿</text></navLabel>
+<content src="chapter449.html"/>
+</navPoint>
+
+<navPoint id="chapter450" playOrder="453">
+<navLabel><text>第二六六章 拉郎配</text></navLabel>
+<content src="chapter450.html"/>
+</navPoint>
+
+<navPoint id="chapter451" playOrder="454">
+<navLabel><text>“她都不怕我，我怎么会怕她？”五郎大义凛然道：“这还是我第一回，遇到不怕我的小娘呢”</text></navLabel>
+<content src="chapter451.html"/>
+</navPoint>
+
+<navPoint id="chapter452" playOrder="455">
+<navLabel><text>第二六七章</text></navLabel>
+<content src="chapter452.html"/>
+</navPoint>
+
+<navPoint id="chapter453" playOrder="456">
+<navLabel><text>“我这不是第一回张罗么”曹氏马上吩咐陈希亮道：“写草帖，礼单从厚，啥值钱往上写什么”</text></navLabel>
+<content src="chapter453.html"/>
+</navPoint>
+
+<navPoint id="chapter454" playOrder="457">
+<navLabel><text>第二六八章 人憔悴</text></navLabel>
+<content src="chapter454.html"/>
+</navPoint>
+
+<navPoint id="chapter455" playOrder="458">
+<navLabel><text>第四章，求票票(未完待续)</text></navLabel>
+<content src="chapter455.html"/>
+</navPoint>
+
+<navPoint id="chapter456" playOrder="459">
+<navLabel><text>第二六九章 夜不眠 （上）</text></navLabel>
+<content src="chapter456.html"/>
+</navPoint>
+
+<navPoint id="chapter457" playOrder="460">
+<navLabel><text>第二七零章 司马光</text></navLabel>
+<content src="chapter457.html"/>
+</navPoint>
+
+<navPoint id="chapter458" playOrder="461">
+<navLabel><text>第二七一章 身毒道</text></navLabel>
+<content src="chapter458.html"/>
+</navPoint>
+
+<navPoint id="chapter459" playOrder="462">
+<navLabel><text>第二七二章 质疑</text></navLabel>
+<content src="chapter459.html"/>
+</navPoint>
+
+<navPoint id="chapter460" playOrder="463">
+<navLabel><text>第二章，还有两，求月票啊(未完待续)</text></navLabel>
+<content src="chapter460.html"/>
+</navPoint>
+
+<navPoint id="chapter461" playOrder="464">
+<navLabel><text>第二七三章 回应</text></navLabel>
+<content src="chapter461.html"/>
+</navPoint>
+
+<navPoint id="chapter462" playOrder="465">
+<navLabel><text>第二七四章 无上光荣！</text></navLabel>
+<content src="chapter462.html"/>
+</navPoint>
+
+<navPoint id="chapter463" playOrder="466">
+<navLabel><text>第二七五章 殿试 （上）</text></navLabel>
+<content src="chapter463.html"/>
+</navPoint>
+
+<navPoint id="chapter464" playOrder="467">
+<navLabel><text>第二七五章 殿试 （中）</text></navLabel>
+<content src="chapter464.html"/>
+</navPoint>
+
+<navPoint id="chapter465" playOrder="468">
+<navLabel><text>第二七五章 殿试 （下）</text></navLabel>
+<content src="chapter465.html"/>
+</navPoint>
+
+<navPoint id="chapter466" playOrder="469">
+<navLabel><text>第二七六章 传胪 （上）</text></navLabel>
+<content src="chapter466.html"/>
+</navPoint>
+
+<navPoint id="chapter467" playOrder="470">
+<navLabel><text>第二七六章 传胪 （中）</text></navLabel>
+<content src="chapter467.html"/>
+</navPoint>
+
+<navPoint id="chapter468" playOrder="471">
+<navLabel><text>第二七六章 传胪 （下） （四更毕，求月票！！）</text></navLabel>
+<content src="chapter468.html"/>
+</navPoint>
+
+<navPoint id="chapter469" playOrder="472">
+<navLabel><text>第二七七章 东华门外，状元唱名！ （上）</text></navLabel>
+<content src="chapter469.html"/>
+</navPoint>
+
+<navPoint id="chapter470" playOrder="473">
+<navLabel><text>第二七七章 东华门外，状元唱名！ （中）</text></navLabel>
+<content src="chapter470.html"/>
+</navPoint>
+
+<navPoint id="chapter471" playOrder="474">
+<navLabel><text>第二七七章 东华门外，状元唱名！（下）</text></navLabel>
+<content src="chapter471.html"/>
+</navPoint>
+
+<navPoint id="chapter472" playOrder="475">
+<navLabel><text>第二七八章 金明池上游！（上）</text></navLabel>
+<content src="chapter472.html"/>
+</navPoint>
+
+<navPoint id="chapter473" playOrder="476">
+<navLabel><text>第二七八章 金明池上游（中）</text></navLabel>
+<content src="chapter473.html"/>
+</navPoint>
+
+<navPoint id="chapter474" playOrder="477">
+<navLabel><text>第二七八章 金明池上游（下）（补上昨天的第四更）</text></navLabel>
+<content src="chapter474.html"/>
+</navPoint>
+
+<navPoint id="chapter475" playOrder="478">
+<navLabel><text>第二七九章 问君此去几时还，来时莫徘徊 （上）</text></navLabel>
+<content src="chapter475.html"/>
+</navPoint>
+
+<navPoint id="chapter476" playOrder="479">
+<navLabel><text>第二七九章 问君此去几时还，来时莫徘徊 （中）</text></navLabel>
+<content src="chapter476.html"/>
+</navPoint>
+
+<navPoint id="chapter477" playOrder="480">
+<navLabel><text>第二七九章 问君此去几时还，来时莫徘徊 （下）</text></navLabel>
+<content src="chapter477.html"/>
+</navPoint>
+
+<navPoint id="chapter478" playOrder="481">
+<navLabel><text>第二八零章 树欲静而风不止 （上）</text></navLabel>
+<content src="chapter478.html"/>
+</navPoint>
+
+<navPoint id="chapter479" playOrder="482">
+<navLabel><text>第二八零章 树欲静而风不止 （中）</text></navLabel>
+<content src="chapter479.html"/>
+</navPoint>
+
+<navPoint id="chapter480" playOrder="483">
+<navLabel><text>第二八零章 树欲静而风不止 （下）</text></navLabel>
+<content src="chapter480.html"/>
+</navPoint>
+
+<navPoint id="chapter481" playOrder="484">
+<navLabel><text>第二八一章 大理国 （上）</text></navLabel>
+<content src="chapter481.html"/>
+</navPoint>
+
+<navPoint id="chapter482" playOrder="485">
+<navLabel><text>第二八一章 大理国 （中）</text></navLabel>
+<content src="chapter482.html"/>
+</navPoint>
+
+<navPoint id="chapter483" playOrder="486">
+<navLabel><text>第二八一章 大理国 （下）</text></navLabel>
+<content src="chapter483.html"/>
+</navPoint>
+
+<navPoint id="chapter484" playOrder="487">
+<navLabel><text>第二八二章 段氏（上）</text></navLabel>
+<content src="chapter484.html"/>
+</navPoint>
+
+<navPoint id="chapter485" playOrder="488">
+<navLabel><text>第二八二章 段氏（中）</text></navLabel>
+<content src="chapter485.html"/>
+</navPoint>
+
+<navPoint id="chapter486" playOrder="489">
+<navLabel><text>第二八二章 段氏（下） （求月票！）</text></navLabel>
+<content src="chapter486.html"/>
+</navPoint>
+
+<navPoint id="chapter487" playOrder="490">
+<navLabel><text>第二八三章 困龙（上）</text></navLabel>
+<content src="chapter487.html"/>
+</navPoint>
+
+<navPoint id="chapter488" playOrder="491">
+<navLabel><text>第二八三章 困龙（中）</text></navLabel>
+<content src="chapter488.html"/>
+</navPoint>
+
+<navPoint id="chapter489" playOrder="492">
+<navLabel><text>第二八三章 困龙（下）</text></navLabel>
+<content src="chapter489.html"/>
+</navPoint>
+
+<navPoint id="chapter490" playOrder="493">
+<navLabel><text>第二八四章 刺陈（上）</text></navLabel>
+<content src="chapter490.html"/>
+</navPoint>
+
+<navPoint id="chapter491" playOrder="494">
+<navLabel><text>第二八四章 刺陈（中）</text></navLabel>
+<content src="chapter491.html"/>
+</navPoint>
+
+<navPoint id="chapter492" playOrder="495">
+<navLabel><text>第二八四章 刺陈（下）</text></navLabel>
+<content src="chapter492.html"/>
+</navPoint>
+
+<navPoint id="chapter493" playOrder="496">
+<navLabel><text>第二八五章 献土（上）</text></navLabel>
+<content src="chapter493.html"/>
+</navPoint>
+
+<navPoint id="chapter494" playOrder="497">
+<navLabel><text>第二八五章 献土（中）</text></navLabel>
+<content src="chapter494.html"/>
+</navPoint>
+
+<navPoint id="chapter495" playOrder="498">
+<navLabel><text>第二八五章 献土（下）</text></navLabel>
+<content src="chapter495.html"/>
+</navPoint>
+
+<navPoint id="chapter496" playOrder="499">
+<navLabel><text>第二八六章 天赐之地（上）</text></navLabel>
+<content src="chapter496.html"/>
+</navPoint>
+
+<navPoint id="chapter497" playOrder="500">
+<navLabel><text>第二八六章 天赐之地（中）</text></navLabel>
+<content src="chapter497.html"/>
+</navPoint>
+
+<navPoint id="chapter498" playOrder="501">
+<navLabel><text>第二八六章 天赐之地（下）</text></navLabel>
+<content src="chapter498.html"/>
+</navPoint>
+
+<navPoint id="chapter499" playOrder="502">
+<navLabel><text>第二八七章 钱荒之解 （上）</text></navLabel>
+<content src="chapter499.html"/>
+</navPoint>
+
+<navPoint id="chapter500" playOrder="503">
+<navLabel><text>第二八七章 钱荒之解 （中）</text></navLabel>
+<content src="chapter500.html"/>
+</navPoint>
+
+<navPoint id="chapter501" playOrder="504">
+<navLabel><text>第二八七章 钱荒之解 （下）</text></navLabel>
+<content src="chapter501.html"/>
+</navPoint>
+
+<navPoint id="chapter502" playOrder="505">
+<navLabel><text>第二八八章 无奈的老高 （上）</text></navLabel>
+<content src="chapter502.html"/>
+</navPoint>
+
+<navPoint id="chapter503" playOrder="506">
+<navLabel><text>第二八八章 无奈的老高 （中）</text></navLabel>
+<content src="chapter503.html"/>
+</navPoint>
+
+<navPoint id="chapter504" playOrder="507">
+<navLabel><text>第二八八章 无奈的老高 （下）</text></navLabel>
+<content src="chapter504.html"/>
+</navPoint>
+
+<navPoint id="chapter505" playOrder="508">
+<navLabel><text>第二八九章 无耻的小陈 （上）</text></navLabel>
+<content src="chapter505.html"/>
+</navPoint>
+
+<navPoint id="chapter506" playOrder="509">
+<navLabel><text>第二八九章 无耻的小陈 （中）</text></navLabel>
+<content src="chapter506.html"/>
+</navPoint>
+
+<navPoint id="chapter507" playOrder="510">
+<navLabel><text>第二八九章 无耻的小陈 （下）</text></navLabel>
+<content src="chapter507.html"/>
+</navPoint>
+
+<navPoint id="chapter508" playOrder="511">
+<navLabel><text>第二九零章 西线无战事 （上）</text></navLabel>
+<content src="chapter508.html"/>
+</navPoint>
+
+<navPoint id="chapter509" playOrder="512">
+<navLabel><text>第二九零章 西线无战事 （中）</text></navLabel>
+<content src="chapter509.html"/>
+</navPoint>
+
+<navPoint id="chapter510" playOrder="513">
+<navLabel><text>第二九零章 西线无战事 （下）</text></navLabel>
+<content src="chapter510.html"/>
+</navPoint>
+
+<navPoint id="chapter511" playOrder="514">
+<navLabel><text>第二九一章 奇迹之城 （上）</text></navLabel>
+<content src="chapter511.html"/>
+</navPoint>
+
+<navPoint id="chapter512" playOrder="515">
+<navLabel><text>第二九一章 奇迹之城 （中）</text></navLabel>
+<content src="chapter512.html"/>
+</navPoint>
+
+<navPoint id="chapter513" playOrder="516">
+<navLabel><text>第二九一章 奇迹之城 （下）</text></navLabel>
+<content src="chapter513.html"/>
+</navPoint>
+
+<navPoint id="chapter514" playOrder="517">
+<navLabel><text>第二九二章 受降（上）</text></navLabel>
+<content src="chapter514.html"/>
+</navPoint>
+
+<navPoint id="chapter515" playOrder="518">
+<navLabel><text>第二九二章 受降（中）</text></navLabel>
+<content src="chapter515.html"/>
+</navPoint>
+
+<navPoint id="chapter516" playOrder="519">
+<navLabel><text>第二九二章 受降（下）</text></navLabel>
+<content src="chapter516.html"/>
+</navPoint>
+
+<navPoint id="chapter517" playOrder="520">
+<navLabel><text>第二九三章 伟大的起点（上）</text></navLabel>
+<content src="chapter517.html"/>
+</navPoint>
+
+<navPoint id="chapter518" playOrder="521">
+<navLabel><text>第二九三章 伟大的起点（中）</text></navLabel>
+<content src="chapter518.html"/>
+</navPoint>
+
+<navPoint id="chapter519" playOrder="522">
+<navLabel><text>第二九三章 伟大的起点（下）</text></navLabel>
+<content src="chapter519.html"/>
+</navPoint>
+
+<navPoint id="chapter520" playOrder="523">
+<navLabel><text>第二九四章 港口之争（上）</text></navLabel>
+<content src="chapter520.html"/>
+</navPoint>
+
+<navPoint id="chapter521" playOrder="524">
+<navLabel><text>第二九四章 港口之争（中）</text></navLabel>
+<content src="chapter521.html"/>
+</navPoint>
+
+<navPoint id="chapter522" playOrder="525">
+<navLabel><text>第二九四章 港口之争（下）</text></navLabel>
+<content src="chapter522.html"/>
+</navPoint>
+
+<navPoint id="chapter523" playOrder="526">
+<navLabel><text>第二九五章 国际骗子（上）</text></navLabel>
+<content src="chapter523.html"/>
+</navPoint>
+
+<navPoint id="chapter524" playOrder="527">
+<navLabel><text>第二九五章 国际骗子（中）</text></navLabel>
+<content src="chapter524.html"/>
+</navPoint>
+
+<navPoint id="chapter525" playOrder="528">
+<navLabel><text>第二九五章 国际骗子（下）</text></navLabel>
+<content src="chapter525.html"/>
+</navPoint>
+
+<navPoint id="chapter526" playOrder="529">
+<navLabel><text>第二九六章 最宝贵的财富（上）</text></navLabel>
+<content src="chapter526.html"/>
+</navPoint>
+
+<navPoint id="chapter527" playOrder="530">
+<navLabel><text>第二九六章 最宝贵的财富（中）</text></navLabel>
+<content src="chapter527.html"/>
+</navPoint>
+
+<navPoint id="chapter528" playOrder="531">
+<navLabel><text>“谁都有第一回。”周定乾轻声道：“好在船有了，船员也早招募好了，待适应了新船，明年就能下南洋了。”</text></navLabel>
+<content src="chapter528.html"/>
+</navPoint>
+
+<navPoint id="chapter529" playOrder="532">
+<navLabel><text>第二九六章 最宝贵的财富（下）</text></navLabel>
+<content src="chapter529.html"/>
+</navPoint>
+
+<navPoint id="chapter530" playOrder="533">
+<navLabel><text>第二九七章 滇铜（上）</text></navLabel>
+<content src="chapter530.html"/>
+</navPoint>
+
+<navPoint id="chapter531" playOrder="534">
+<navLabel><text>第二九七章 滇铜（中）</text></navLabel>
+<content src="chapter531.html"/>
+</navPoint>
+
+<navPoint id="chapter532" playOrder="535">
+<navLabel><text>第二九七章 滇铜（下）</text></navLabel>
+<content src="chapter532.html"/>
+</navPoint>
+
+<navPoint id="chapter533" playOrder="536">
+<navLabel><text>第二九八章 真相大白（上）</text></navLabel>
+<content src="chapter533.html"/>
+</navPoint>
+
+<navPoint id="chapter534" playOrder="537">
+<navLabel><text>第二九八章 真相大白（中）</text></navLabel>
+<content src="chapter534.html"/>
+</navPoint>
+
+<navPoint id="chapter535" playOrder="538">
+<navLabel><text>第二九八章 真相大白（下）</text></navLabel>
+<content src="chapter535.html"/>
+</navPoint>
+
+<navPoint id="chapter536" playOrder="539">
+<navLabel><text>第二九九章 大理新中心（上）</text></navLabel>
+<content src="chapter536.html"/>
+</navPoint>
+
+<navPoint id="chapter537" playOrder="540">
+<navLabel><text>第二九九章 大理新中心（中）</text></navLabel>
+<content src="chapter537.html"/>
+</navPoint>
+
+<navPoint id="chapter538" playOrder="541">
+<navLabel><text>第二九九章 大理新中心（下）</text></navLabel>
+<content src="chapter538.html"/>
+</navPoint>
+
+<navPoint id="chapter539" playOrder="542">
+<navLabel><text>第三零零章 黄金之地（上）</text></navLabel>
+<content src="chapter539.html"/>
+</navPoint>
+
+<navPoint id="chapter540" playOrder="543">
+<navLabel><text>第三零零章 黄金之地（中）</text></navLabel>
+<content src="chapter540.html"/>
+</navPoint>
+
+<navPoint id="chapter541" playOrder="544">
+<navLabel><text>第三零零章 黄金之地（下）</text></navLabel>
+<content src="chapter541.html"/>
+</navPoint>
+
+<navPoint id="chapter542" playOrder="545">
+<navLabel><text>第三零一章 全民偶像（上）</text></navLabel>
+<content src="chapter542.html"/>
+</navPoint>
+
+<navPoint id="chapter543" playOrder="546">
+<navLabel><text>第三零一章 全民偶像（中）</text></navLabel>
+<content src="chapter543.html"/>
+</navPoint>
+
+<navPoint id="chapter544" playOrder="547">
+<navLabel><text>第三零一章 全民偶像（下）</text></navLabel>
+<content src="chapter544.html"/>
+</navPoint>
+
+<navPoint id="chapter545" playOrder="548">
+<navLabel><text>第三零二章 状元岛（上）</text></navLabel>
+<content src="chapter545.html"/>
+</navPoint>
+
+<navPoint id="chapter546" playOrder="549">
+<navLabel><text>第三零二章 状元岛（中）</text></navLabel>
+<content src="chapter546.html"/>
+</navPoint>
+
+<navPoint id="chapter547" playOrder="550">
+<navLabel><text>第三零二章 状元岛（下）</text></navLabel>
+<content src="chapter547.html"/>
+</navPoint>
+
+<navPoint id="chapter548" playOrder="551">
+<navLabel><text>第三零三章 汴京春寒（上）</text></navLabel>
+<content src="chapter548.html"/>
+</navPoint>
+
+<navPoint id="chapter549" playOrder="552">
+<navLabel><text>第三零三章 汴京春寒（中）</text></navLabel>
+<content src="chapter549.html"/>
+</navPoint>
+
+<navPoint id="chapter550" playOrder="553">
+<navLabel><text>第三零三章 汴京春寒（下）</text></navLabel>
+<content src="chapter550.html"/>
+</navPoint>
+
+<navPoint id="chapter551" playOrder="554">
+<navLabel><text>第三零四章 虚张声势（上）</text></navLabel>
+<content src="chapter551.html"/>
+</navPoint>
+
+<navPoint id="chapter552" playOrder="555">
+<navLabel><text>第三零四章 虚张声势（中）</text></navLabel>
+<content src="chapter552.html"/>
+</navPoint>
+
+<navPoint id="chapter553" playOrder="556">
+<navLabel><text>“唉……”陈恪越是高风亮节，赵祯就越是觉着歉疚，叹气道：“这不是寡人第一回让辽人讹了。那次我就发誓，绝不能再次受辱了。可是……”老皇帝悲从中来道：“谁知老了老了，又来了一遭。”</text></navLabel>
+<content src="chapter553.html"/>
+</navPoint>
+
+<navPoint id="chapter554" playOrder="557">
+<navLabel><text>第三零四章 虚张声势（下）</text></navLabel>
+<content src="chapter554.html"/>
+</navPoint>
+
+<navPoint id="chapter555" playOrder="558">
+<navLabel><text>第三零五章 谈判（上）</text></navLabel>
+<content src="chapter555.html"/>
+</navPoint>
+
+<navPoint id="chapter556" playOrder="559">
+<navLabel><text>第三零五章 谈判（中）</text></navLabel>
+<content src="chapter556.html"/>
+</navPoint>
+
+<navPoint id="chapter557" playOrder="560">
+<navLabel><text>第三零五章 谈判（下）</text></navLabel>
+<content src="chapter557.html"/>
+</navPoint>
+
+<navPoint id="chapter558" playOrder="561">
+<navLabel><text>第三零六章 使辽（上）</text></navLabel>
+<content src="chapter558.html"/>
+</navPoint>
+
+<navPoint id="chapter559" playOrder="562">
+<navLabel><text>第三零六章 使辽（中）</text></navLabel>
+<content src="chapter559.html"/>
+</navPoint>
+
+<navPoint id="chapter560" playOrder="563">
+<navLabel><text>第三零六章 使辽（下）</text></navLabel>
+<content src="chapter560.html"/>
+</navPoint>
+
+<navPoint id="chapter561" playOrder="564">
+<navLabel><text>第三零七章 燕云（上）</text></navLabel>
+<content src="chapter561.html"/>
+</navPoint>
+
+<navPoint id="chapter562" playOrder="565">
+<navLabel><text>第三零七章 燕云（中） （求月票啊！）</text></navLabel>
+<content src="chapter562.html"/>
+</navPoint>
+
+<navPoint id="chapter563" playOrder="566">
+<navLabel><text>第三零七章 燕云（下） （求月票啊！）</text></navLabel>
+<content src="chapter563.html"/>
+</navPoint>
+
+<navPoint id="chapter564" playOrder="567">
+<navLabel><text>第三零八章 状元见状元 （求月票啊！）</text></navLabel>
+<content src="chapter564.html"/>
+</navPoint>
+
+<navPoint id="chapter565" playOrder="568">
+<navLabel><text>第三零八章 状元见状元 (中) （郁闷的求月票！）</text></navLabel>
+<content src="chapter565.html"/>
+</navPoint>
+
+<navPoint id="chapter566" playOrder="569">
+<navLabel><text>第三零八章 状元见状元（下) （三更求月票！）</text></navLabel>
+<content src="chapter566.html"/>
+</navPoint>
+
+<navPoint id="chapter567" playOrder="570">
+<navLabel><text>第三零八章 捺钵（上） （四更求月票！）</text></navLabel>
+<content src="chapter567.html"/>
+</navPoint>
+
+<navPoint id="chapter568" playOrder="571">
+<navLabel><text>第三零八章 捺钵（中）</text></navLabel>
+<content src="chapter568.html"/>
+</navPoint>
+
+<navPoint id="chapter569" playOrder="572">
+<navLabel><text>第三零八章 捺钵（下）</text></navLabel>
+<content src="chapter569.html"/>
+</navPoint>
+
+<navPoint id="chapter570" playOrder="573">
+<navLabel><text>第三零九章 辽主（上）</text></navLabel>
+<content src="chapter570.html"/>
+</navPoint>
+
+<navPoint id="chapter571" playOrder="574">
+<navLabel><text>第三零九章 辽主（中）（求月票！）</text></navLabel>
+<content src="chapter571.html"/>
+</navPoint>
+
+<navPoint id="chapter572" playOrder="575">
+<navLabel><text>第三零九章 辽主（下）（求月票！）</text></navLabel>
+<content src="chapter572.html"/>
+</navPoint>
+
+<navPoint id="chapter573" playOrder="576">
+<navLabel><text>写到两点，才写出三章来，我这个龟速唉……不过我向**保证，真得一天啥都没干，光写字去了。是因为起先有点卡可了，写到第三章才顺过来。</text></navLabel>
+<content src="chapter573.html"/>
+</navPoint>
+
+<navPoint id="chapter574" playOrder="577">
+<navLabel><text>要是再写第四章，肯定得到天亮了，然后明天就废了。权衡期间，我决定睡觉，明早起来写。</text></navLabel>
+<content src="chapter574.html"/>
+</navPoint>
+
+<navPoint id="chapter575" playOrder="578">
+<navLabel><text>第三一零章 金风玉露（上）（求月票！）</text></navLabel>
+<content src="chapter575.html"/>
+</navPoint>
+
+<navPoint id="chapter576" playOrder="579">
+<navLabel><text>第三一零章 金风玉露（中）（哭求月票！）</text></navLabel>
+<content src="chapter576.html"/>
+</navPoint>
+
+<navPoint id="chapter577" playOrder="580">
+<navLabel><text>第三一零章 金风玉露（下）（三更求月票！）</text></navLabel>
+<content src="chapter577.html"/>
+</navPoint>
+
+<navPoint id="chapter578" playOrder="581">
+<navLabel><text>第三一一章 伊人无觅（上）（四更求月票！）</text></navLabel>
+<content src="chapter578.html"/>
+</navPoint>
+
+<navPoint id="chapter579" playOrder="582">
+<navLabel><text>第三一一章 伊人无觅（中）（一更求月...</text></navLabel>
+<content src="chapter579.html"/>
+</navPoint>
+
+<navPoint id="chapter580" playOrder="583">
+<navLabel><text>第三一一章 伊人无觅（下）（两更求月...</text></navLabel>
+<content src="chapter580.html"/>
+</navPoint>
+
+<navPoint id="chapter581" playOrder="584">
+<navLabel><text>第三一二章 皇帝的决断（上）（三更求月票！）</text></navLabel>
+<content src="chapter581.html"/>
+</navPoint>
+
+<navPoint id="chapter582" playOrder="585">
+<navLabel><text>第三一二章 皇帝的决断（中）（四更求月票</text></navLabel>
+<content src="chapter582.html"/>
+</navPoint>
+
+<navPoint id="chapter583" playOrder="586">
+<navLabel><text>第三一二章 皇帝的决断（下）（一更月票！）</text></navLabel>
+<content src="chapter583.html"/>
+</navPoint>
+
+<navPoint id="chapter584" playOrder="587">
+<navLabel><text>第三一零章 金风玉露（下）</text></navLabel>
+<content src="chapter584.html"/>
+</navPoint>
+
+<navPoint id="chapter585" playOrder="588">
+<navLabel><text>第三一一章 伊人无觅（上）</text></navLabel>
+<content src="chapter585.html"/>
+</navPoint>
+
+<navPoint id="chapter586" playOrder="589">
+<navLabel><text>第三一一章 伊人无觅（中）</text></navLabel>
+<content src="chapter586.html"/>
+</navPoint>
+
+<navPoint id="chapter587" playOrder="590">
+<navLabel><text>第三一一章 伊人无觅（下）</text></navLabel>
+<content src="chapter587.html"/>
+</navPoint>
+
+<navPoint id="chapter588" playOrder="591">
+<navLabel><text>第三一二章 皇帝的决断（上）</text></navLabel>
+<content src="chapter588.html"/>
+</navPoint>
+
+<navPoint id="chapter589" playOrder="592">
+<navLabel><text>第三一二章 皇帝的决断（中）</text></navLabel>
+<content src="chapter589.html"/>
+</navPoint>
+
+<navPoint id="chapter590" playOrder="593">
+<navLabel><text>第三一二章 皇帝的决断（下）</text></navLabel>
+<content src="chapter590.html"/>
+</navPoint>
+
+<navPoint id="chapter591" playOrder="594">
+<navLabel><text>第三一三章 一球定乾坤（上）</text></navLabel>
+<content src="chapter591.html"/>
+</navPoint>
+
+<navPoint id="chapter592" playOrder="595">
+<navLabel><text>陈恪喝一口水，正在向队员交代，中段该注意的事项。调整之后，对方肯定要疯狂反扑，第二节将是很残酷的考验。</text></navLabel>
+<content src="chapter592.html"/>
+</navPoint>
+
+<navPoint id="chapter593" playOrder="596">
+<navLabel><text>第三一三章 一球定乾坤（中）</text></navLabel>
+<content src="chapter593.html"/>
+</navPoint>
+
+<navPoint id="chapter594" playOrder="597">
+<navLabel><text>第三一三章 一球定乾坤（下）</text></navLabel>
+<content src="chapter594.html"/>
+</navPoint>
+
+<navPoint id="chapter595" playOrder="598">
+<navLabel><text>第三一四章 别了，耶律洪基（上）</text></navLabel>
+<content src="chapter595.html"/>
+</navPoint>
+
+<navPoint id="chapter596" playOrder="599">
+<navLabel><text>第三一四章 别了，耶律洪基（中）</text></navLabel>
+<content src="chapter596.html"/>
+</navPoint>
+
+<navPoint id="chapter597" playOrder="600">
+<navLabel><text>第三一四章 别了，耶律洪基（下）</text></navLabel>
+<content src="chapter597.html"/>
+</navPoint>
+
+<navPoint id="chapter598" playOrder="601">
+<navLabel><text>第三一四五章 返京（上）</text></navLabel>
+<content src="chapter598.html"/>
+</navPoint>
+
+<navPoint id="chapter599" playOrder="602">
+<navLabel><text>第三一四五章 返京（中）</text></navLabel>
+<content src="chapter599.html"/>
+</navPoint>
+
+<navPoint id="chapter600" playOrder="603">
+<navLabel><text>第三一四五章 返京（下）</text></navLabel>
+<content src="chapter600.html"/>
+</navPoint>
+
+<navPoint id="chapter601" playOrder="604">
+<navLabel><text>第三一六章 重逢（上）</text></navLabel>
+<content src="chapter601.html"/>
+</navPoint>
+
+<navPoint id="chapter602" playOrder="605">
+<navLabel><text>第三一六章 重逢(中) 更！)</text></navLabel>
+<content src="chapter602.html"/>
+</navPoint>
+
+<navPoint id="chapter603" playOrder="606">
+<navLabel><text>第三一六章 重逢(下) 更！)</text></navLabel>
+<content src="chapter603.html"/>
+</navPoint>
+
+<navPoint id="chapter604" playOrder="607">
+<navLabel><text>第三一七章 小妹进京(上)</text></navLabel>
+<content src="chapter604.html"/>
+</navPoint>
+
+<navPoint id="chapter605" playOrder="608">
+<navLabel><text>第三一七章 裁军起风波(中)</text></navLabel>
+<content src="chapter605.html"/>
+</navPoint>
+
+<navPoint id="chapter606" playOrder="609">
+<navLabel><text>第三一七章 裁军起风波（下）</text></navLabel>
+<content src="chapter606.html"/>
+</navPoint>
+
+<navPoint id="chapter607" playOrder="610">
+<navLabel><text>第三一八章 云诡（上）</text></navLabel>
+<content src="chapter607.html"/>
+</navPoint>
+
+<navPoint id="chapter608" playOrder="611">
+<navLabel><text>第三一八章 云诡（中）</text></navLabel>
+<content src="chapter608.html"/>
+</navPoint>
+
+<navPoint id="chapter609" playOrder="612">
+<navLabel><text>第三一八章 云诡（下）</text></navLabel>
+<content src="chapter609.html"/>
+</navPoint>
+
+<navPoint id="chapter610" playOrder="613">
+<navLabel><text>第三一九章 谁主浮沉（上）（四更一次）</text></navLabel>
+<content src="chapter610.html"/>
+</navPoint>
+
+<navPoint id="chapter611" playOrder="614">
+<navLabel><text>第三一九章 谁主浮沉（上）</text></navLabel>
+<content src="chapter611.html"/>
+</navPoint>
+
+<navPoint id="chapter612" playOrder="615">
+<navLabel><text>第三一九章 谁主浮沉（中）</text></navLabel>
+<content src="chapter612.html"/>
+</navPoint>
+
+<navPoint id="chapter613" playOrder="616">
+<navLabel><text>第三一九章 谁主浮沉（下）（第二更）</text></navLabel>
+<content src="chapter613.html"/>
+</navPoint>
+
+<navPoint id="chapter614" playOrder="617">
+<navLabel><text>第三二零章 苏家进京（上）（第三更）</text></navLabel>
+<content src="chapter614.html"/>
+</navPoint>
+
+<navPoint id="chapter615" playOrder="618">
+<navLabel><text>第三二零章 苏家进京（中）（第四更）</text></navLabel>
+<content src="chapter615.html"/>
+</navPoint>
+
+<navPoint id="chapter616" playOrder="619">
+<navLabel><text>第三二零章 苏家进京（下）（第一更）</text></navLabel>
+<content src="chapter616.html"/>
+</navPoint>
+
+<navPoint id="chapter617" playOrder="620">
+<navLabel><text>第三二零章 空额（上）（第二更）</text></navLabel>
+<content src="chapter617.html"/>
+</navPoint>
+
+<navPoint id="chapter618" playOrder="621">
+<navLabel><text>第三二零章 空额（中）（第三更）</text></navLabel>
+<content src="chapter618.html"/>
+</navPoint>
+
+<navPoint id="chapter619" playOrder="622">
+<navLabel><text>第三二零章 空额（下）（第四更）</text></navLabel>
+<content src="chapter619.html"/>
+</navPoint>
+
+<navPoint id="chapter620" playOrder="623">
+<navLabel><text>第三二一章 点兵（上）（第一更）</text></navLabel>
+<content src="chapter620.html"/>
+</navPoint>
+
+<navPoint id="chapter621" playOrder="624">
+<navLabel><text>第三二一章 点兵（中）（第二更）</text></navLabel>
+<content src="chapter621.html"/>
+</navPoint>
+
+<navPoint id="chapter622" playOrder="625">
+<navLabel><text>第三二一章 点兵（下）（第三更）</text></navLabel>
+<content src="chapter622.html"/>
+</navPoint>
+
+<navPoint id="chapter623" playOrder="626">
+<navLabel><text>第三二二章 大宋禁军（上）（第四更）</text></navLabel>
+<content src="chapter623.html"/>
+</navPoint>
+
+<navPoint id="chapter624" playOrder="627">
+<navLabel><text>第三二二章 大宋禁军（中）</text></navLabel>
+<content src="chapter624.html"/>
+</navPoint>
+
+<navPoint id="chapter625" playOrder="628">
+<navLabel><text>第三二二章 大宋禁军（下）</text></navLabel>
+<content src="chapter625.html"/>
+</navPoint>
+
+<navPoint id="chapter626" playOrder="629">
+<navLabel><text>第三二三章 平地起风雷（上）</text></navLabel>
+<content src="chapter626.html"/>
+</navPoint>
+
+<navPoint id="chapter627" playOrder="630">
+<navLabel><text>第三二三章 平地起风雷（中）</text></navLabel>
+<content src="chapter627.html"/>
+</navPoint>
+
+<navPoint id="chapter628" playOrder="631">
+<navLabel><text>第三二三章 平地起风雷（下） （补九百票的）</text></navLabel>
+<content src="chapter628.html"/>
+</navPoint>
+
+<navPoint id="chapter629" playOrder="632">
+<navLabel><text>第三二四章 真相大白（上） （补一千票的）</text></navLabel>
+<content src="chapter629.html"/>
+</navPoint>
+
+<navPoint id="chapter630" playOrder="633">
+<navLabel><text>第三二四章 真相大白（中）</text></navLabel>
+<content src="chapter630.html"/>
+</navPoint>
+
+<navPoint id="chapter631" playOrder="634">
+<navLabel><text>第三二四章 真相大白（下）</text></navLabel>
+<content src="chapter631.html"/>
+</navPoint>
+
+<navPoint id="chapter632" playOrder="635">
+<navLabel><text>第三二五章 丑闻（上）</text></navLabel>
+<content src="chapter632.html"/>
+</navPoint>
+
+<navPoint id="chapter633" playOrder="636">
+<navLabel><text>第三二五章 丑闻（中）</text></navLabel>
+<content src="chapter633.html"/>
+</navPoint>
+
+<navPoint id="chapter634" playOrder="637">
+<navLabel><text>第三二五章 丑闻（下）</text></navLabel>
+<content src="chapter634.html"/>
+</navPoint>
+
+<navPoint id="chapter635" playOrder="638">
+<navLabel><text>第三二六章 哀莫大（上）</text></navLabel>
+<content src="chapter635.html"/>
+</navPoint>
+
+<navPoint id="chapter636" playOrder="639">
+<navLabel><text>第三二六章 哀莫大（中）</text></navLabel>
+<content src="chapter636.html"/>
+</navPoint>
+
+<navPoint id="chapter637" playOrder="640">
+<navLabel><text>第三二六章 哀莫大（下）</text></navLabel>
+<content src="chapter637.html"/>
+</navPoint>
+
+<navPoint id="chapter638" playOrder="641">
+<navLabel><text>第三二七章 于心死（上）</text></navLabel>
+<content src="chapter638.html"/>
+</navPoint>
+
+<navPoint id="chapter639" playOrder="642">
+<navLabel><text>第三二七章 于心死（中）</text></navLabel>
+<content src="chapter639.html"/>
+</navPoint>
+
+<navPoint id="chapter640" playOrder="643">
+<navLabel><text>第三二七章 于心死（下）</text></navLabel>
+<content src="chapter640.html"/>
+</navPoint>
+
+<navPoint id="chapter641" playOrder="644">
+<navLabel><text>第三二八章 七夕（上）</text></navLabel>
+<content src="chapter641.html"/>
+</navPoint>
+
+<navPoint id="chapter642" playOrder="645">
+<navLabel><text>第三二八章 七夕（中）</text></navLabel>
+<content src="chapter642.html"/>
+</navPoint>
+
+<navPoint id="chapter643" playOrder="646">
+<navLabel><text>第三二八章 七夕（下）</text></navLabel>
+<content src="chapter643.html"/>
+</navPoint>
+
+<navPoint id="chapter644" playOrder="647">
+<navLabel><text>第三二九章 皇家武学 （上）</text></navLabel>
+<content src="chapter644.html"/>
+</navPoint>
+
+<navPoint id="chapter645" playOrder="648">
+<navLabel><text>第三二九章 皇家武学 （中）</text></navLabel>
+<content src="chapter645.html"/>
+</navPoint>
+
+<navPoint id="chapter646" playOrder="649">
+<navLabel><text>第三二九章 皇家武学 （下）</text></navLabel>
+<content src="chapter646.html"/>
+</navPoint>
+
+<navPoint id="chapter647" playOrder="650">
+<navLabel><text>需要理清一下思路，所以第一章有点慢，不过基本更一定会保证的，还有一更。(未完待续。如果您喜欢这部作品，欢迎您来投推荐票、月票，您的支持，就是我最大的动力。)</text></navLabel>
+<content src="chapter647.html"/>
+</navPoint>
+
+<navPoint id="chapter648" playOrder="651">
+<navLabel><text>第三三零章 龙昌期 （上）</text></navLabel>
+<content src="chapter648.html"/>
+</navPoint>
+
+<navPoint id="chapter649" playOrder="652">
+<navLabel><text>第三三零章 龙昌期 中）</text></navLabel>
+<content src="chapter649.html"/>
+</navPoint>
+
+<navPoint id="chapter650" playOrder="653">
+<navLabel><text>第三三零章 龙昌期 （下）</text></navLabel>
+<content src="chapter650.html"/>
+</navPoint>
+
+<navPoint id="chapter651" playOrder="654">
+<navLabel><text>第三三一章 王元泽 （上）</text></navLabel>
+<content src="chapter651.html"/>
+</navPoint>
+
+<navPoint id="chapter652" playOrder="655">
+<navLabel><text>第三三一章 武学与武举 （中）</text></navLabel>
+<content src="chapter652.html"/>
+</navPoint>
+
+<navPoint id="chapter653" playOrder="656">
+<navLabel><text>第三三一章 武学与武举 （下）</text></navLabel>
+<content src="chapter653.html"/>
+</navPoint>
+
+<navPoint id="chapter654" playOrder="657">
+<navLabel><text>第三三二章 经筵 （上）</text></navLabel>
+<content src="chapter654.html"/>
+</navPoint>
+
+<navPoint id="chapter655" playOrder="658">
+<navLabel><text>第三三二章 经筵 （中）</text></navLabel>
+<content src="chapter655.html"/>
+</navPoint>
+
+<navPoint id="chapter656" playOrder="659">
+<navLabel><text>第三三二章 经筵 （下）</text></navLabel>
+<content src="chapter656.html"/>
+</navPoint>
+
+<navPoint id="chapter657" playOrder="660">
+<navLabel><text>第三三三章 大师（上）</text></navLabel>
+<content src="chapter657.html"/>
+</navPoint>
+
+<navPoint id="chapter658" playOrder="661">
+<navLabel><text>第三三三章 大师（中）</text></navLabel>
+<content src="chapter658.html"/>
+</navPoint>
+
+<navPoint id="chapter659" playOrder="662">
+<navLabel><text>第三三三章 大师（下）</text></navLabel>
+<content src="chapter659.html"/>
+</navPoint>
+
+<navPoint id="chapter660" playOrder="663">
+<navLabel><text>第三三四章 宜男花正好 （上）</text></navLabel>
+<content src="chapter660.html"/>
+</navPoint>
+
+<navPoint id="chapter661" playOrder="664">
+<navLabel><text>第三三四章 宜男花正好 （中）</text></navLabel>
+<content src="chapter661.html"/>
+</navPoint>
+
+<navPoint id="chapter662" playOrder="665">
+<navLabel><text>第三三四章 宜男花正好 （下）</text></navLabel>
+<content src="chapter662.html"/>
+</navPoint>
+
+<navPoint id="chapter663" playOrder="666">
+<navLabel><text>第三三五章 兰畔照双衣 （上）</text></navLabel>
+<content src="chapter663.html"/>
+</navPoint>
+
+<navPoint id="chapter664" playOrder="667">
+<navLabel><text>第三三五章 兰畔照双衣 （中）</text></navLabel>
+<content src="chapter664.html"/>
+</navPoint>
+
+<navPoint id="chapter665" playOrder="668">
+<navLabel><text>第三三五章 兰畔照双衣 （下）</text></navLabel>
+<content src="chapter665.html"/>
+</navPoint>
+
+<navPoint id="chapter666" playOrder="669">
+<navLabel><text>第三三五章 花好月正圆 （上）</text></navLabel>
+<content src="chapter666.html"/>
+</navPoint>
+
+<navPoint id="chapter667" playOrder="670">
+<navLabel><text>第三三五章 花好月正圆 （中）</text></navLabel>
+<content src="chapter667.html"/>
+</navPoint>
+
+<navPoint id="chapter668" playOrder="671">
+<navLabel><text>第三三五章 花好月正圆 （下）</text></navLabel>
+<content src="chapter668.html"/>
+</navPoint>
+
+<navPoint id="chapter669" playOrder="672">
+<navLabel><text>第三三六章 为善政忙奔（上）</text></navLabel>
+<content src="chapter669.html"/>
+</navPoint>
+
+<navPoint id="chapter670" playOrder="673">
+<navLabel><text>第三三六章 为善政忙奔（中）</text></navLabel>
+<content src="chapter670.html"/>
+</navPoint>
+
+<navPoint id="chapter671" playOrder="674">
+<navLabel><text>第三三六章 为善政忙奔（下）</text></navLabel>
+<content src="chapter671.html"/>
+</navPoint>
+
+<navPoint id="chapter672" playOrder="675">
+<navLabel><text>第三三七章 失蹄唯退后（上）</text></navLabel>
+<content src="chapter672.html"/>
+</navPoint>
+
+<navPoint id="chapter673" playOrder="676">
+<navLabel><text>第三三七章 失蹄唯退后（中）</text></navLabel>
+<content src="chapter673.html"/>
+</navPoint>
+
+<navPoint id="chapter674" playOrder="677">
+<navLabel><text>第三三七章 失蹄唯退后（下）</text></navLabel>
+<content src="chapter674.html"/>
+</navPoint>
+
+<navPoint id="chapter675" playOrder="678">
+<navLabel><text>第三三八章 射人先射马（上）</text></navLabel>
+<content src="chapter675.html"/>
+</navPoint>
+
+<navPoint id="chapter676" playOrder="679">
+<navLabel><text>刚开始时还好，但当决口合拢后，水流量突然间增大，滚滚洪水倒卷回上游，造成了商胡重新决堤的悲剧。</text></navLabel>
+<content src="chapter676.html"/>
+</navPoint>
+
+<navPoint id="chapter677" playOrder="680">
+<navLabel><text>第二章，肚子像开了锅一样……(未完待续。如果您喜欢这部作品，欢迎您来投推荐票、月票，您的支持，就是我最大的动力。)</text></navLabel>
+<content src="chapter677.html"/>
+</navPoint>
+
+<navPoint id="chapter678" playOrder="681">
+<navLabel><text>第三三八章 射人先射马（中）</text></navLabel>
+<content src="chapter678.html"/>
+</navPoint>
+
+<navPoint id="chapter679" playOrder="682">
+<navLabel><text>第三三八章 射人先射马（下）</text></navLabel>
+<content src="chapter679.html"/>
+</navPoint>
+
+<navPoint id="chapter680" playOrder="683">
+<navLabel><text>“学生，废材也。”徐离纶摇摇头，自嘲的笑道：“六岁读书，十六岁科考，谁知屡试不第526章骨眼上走呢？”世家子弟，消息自然比别人灵通。</text></navLabel>
+<content src="chapter680.html"/>
+</navPoint>
+
+<navPoint id="chapter681" playOrder="684">
+<navLabel><text>第三三九章 秋来春早去（上）</text></navLabel>
+<content src="chapter681.html"/>
+</navPoint>
+
+<navPoint id="chapter682" playOrder="685">
+<navLabel><text>第三三九章 秋来春早去（中）</text></navLabel>
+<content src="chapter682.html"/>
+</navPoint>
+
+<navPoint id="chapter683" playOrder="686">
+<navLabel><text>“我只问你三个问题。”曾公亮能当上枢密使，也不是瞎猫碰上死耗子，他深吸口气，不再跟着对方的思路走：“第528章团隐隐浮现。假以时日，与文官抗衡也不是没可能……</text></navLabel>
+<content src="chapter683.html"/>
+</navPoint>
+
+<navPoint id="chapter684" playOrder="687">
+<navLabel><text>第三三九章 秋来春早去（下）</text></navLabel>
+<content src="chapter684.html"/>
+</navPoint>
+
+<navPoint id="chapter685" playOrder="688">
+<navLabel><text>第三四零章 迟暮美人悲 （上）</text></navLabel>
+<content src="chapter685.html"/>
+</navPoint>
+
+<navPoint id="chapter686" playOrder="689">
+<navLabel><text>第三四零章 迟暮美人悲 （中）</text></navLabel>
+<content src="chapter686.html"/>
+</navPoint>
+
+<navPoint id="chapter687" playOrder="690">
+<navLabel><text>第三四零章 迟暮美人悲 （下）</text></navLabel>
+<content src="chapter687.html"/>
+</navPoint>
+
+<navPoint id="chapter688" playOrder="691">
+<navLabel><text>第三四一章 物象纤无隐 （上）</text></navLabel>
+<content src="chapter688.html"/>
+</navPoint>
+
+<navPoint id="chapter689" playOrder="692">
+<navLabel><text>第三四一章 物象纤无隐 （中）</text></navLabel>
+<content src="chapter689.html"/>
+</navPoint>
+
+<navPoint id="chapter690" playOrder="693">
+<navLabel><text>第三四一章 物象纤无隐 （下）</text></navLabel>
+<content src="chapter690.html"/>
+</navPoint>
+
+<navPoint id="chapter691" playOrder="694">
+<navLabel><text>第三四二章禽情只自迷 （上）</text></navLabel>
+<content src="chapter691.html"/>
+</navPoint>
+
+<navPoint id="chapter692" playOrder="695">
+<navLabel><text>第三四二章 禽情只自迷 （中）</text></navLabel>
+<content src="chapter692.html"/>
+</navPoint>
+
+<navPoint id="chapter693" playOrder="696">
+<navLabel><text>第三四二章 禽情只自迷 （下）</text></navLabel>
+<content src="chapter693.html"/>
+</navPoint>
+
+<navPoint id="chapter694" playOrder="697">
+<navLabel><text>第三四三章 禽情只自迷 （上）</text></navLabel>
+<content src="chapter694.html"/>
+</navPoint>
+
+<navPoint id="chapter695" playOrder="698">
+<navLabel><text>第三四三章 问渠哪得清如许 （中）</text></navLabel>
+<content src="chapter695.html"/>
+</navPoint>
+
+<navPoint id="chapter696" playOrder="699">
+<navLabel><text>第三四三章 问渠哪得清如许 （下）</text></navLabel>
+<content src="chapter696.html"/>
+</navPoint>
+
+<navPoint id="chapter697" playOrder="700">
+<navLabel><text>第三四四章 为有源头活水来 （上）</text></navLabel>
+<content src="chapter697.html"/>
+</navPoint>
+
+<navPoint id="chapter698" playOrder="701">
+<navLabel><text>第三四四章 为有源头活水来 （中）</text></navLabel>
+<content src="chapter698.html"/>
+</navPoint>
+
+<navPoint id="chapter699" playOrder="702">
+<navLabel><text>第三四四章 为有源头活水来 （下）</text></navLabel>
+<content src="chapter699.html"/>
+</navPoint>
+
+<navPoint id="chapter700" playOrder="703">
+<navLabel><text>第三四五章 爆竹声中一岁除 （上）</text></navLabel>
+<content src="chapter700.html"/>
+</navPoint>
+
+<navPoint id="chapter701" playOrder="704">
+<navLabel><text>第三四五章 爆竹声中一岁除 （中）</text></navLabel>
+<content src="chapter701.html"/>
+</navPoint>
+
+<navPoint id="chapter702" playOrder="705">
+<navLabel><text>第三四五章 爆竹声中一岁除 （下）</text></navLabel>
+<content src="chapter702.html"/>
+</navPoint>
+
+<navPoint id="chapter703" playOrder="706">
+<navLabel><text>第三四六章 宫禁为谁开（上）</text></navLabel>
+<content src="chapter703.html"/>
+</navPoint>
+
+<navPoint id="chapter704" playOrder="707">
+<navLabel><text>第三四六章 宫禁为谁开（中）</text></navLabel>
+<content src="chapter704.html"/>
+</navPoint>
+
+<navPoint id="chapter705" playOrder="708">
+<navLabel><text>第三四六章 宫禁为谁开（下）</text></navLabel>
+<content src="chapter705.html"/>
+</navPoint>
+
+<navPoint id="chapter706" playOrder="709">
+<navLabel><text>第三四七章 态度（上）</text></navLabel>
+<content src="chapter706.html"/>
+</navPoint>
+
+<navPoint id="chapter707" playOrder="710">
+<navLabel><text>第三四七章 态度（中）</text></navLabel>
+<content src="chapter707.html"/>
+</navPoint>
+
+<navPoint id="chapter708" playOrder="711">
+<navLabel><text>第三四七章 态度（下）</text></navLabel>
+<content src="chapter708.html"/>
+</navPoint>
+
+<navPoint id="chapter709" playOrder="712">
+<navLabel><text>第三四八章 春（上）</text></navLabel>
+<content src="chapter709.html"/>
+</navPoint>
+
+<navPoint id="chapter710" playOrder="713">
+<navLabel><text>当时我满打满算，准备二月底冲一冲，平息一下民愤的。谁知道，这边刚坐下，那边孩子就又拉又吐了……咱第一回当爹，无知得很，吓得眼泪都出来了，又不敢再带孩子去医院那种鬼地方，就和他娘打电话咨询，然后拿着孩子的便便去化验。</text></navLabel>
+<content src="chapter710.html"/>
+</navPoint>
+
+<navPoint id="chapter711" playOrder="714">
+<navLabel><text>第三四八章 春（中）</text></navLabel>
+<content src="chapter711.html"/>
+</navPoint>
+
+<navPoint id="chapter712" playOrder="715">
+<navLabel><text>第三四八章 春（下）</text></navLabel>
+<content src="chapter712.html"/>
+</navPoint>
+
+<navPoint id="chapter713" playOrder="716">
+<navLabel><text>第三四九章 夏 (下）</text></navLabel>
+<content src="chapter713.html"/>
+</navPoint>
+
+<navPoint id="chapter714" playOrder="717">
+<navLabel><text>第三五零章 秋 (上）</text></navLabel>
+<content src="chapter714.html"/>
+</navPoint>
+
+<navPoint id="chapter715" playOrder="718">
+<navLabel><text>第三五零章 秋 (中）</text></navLabel>
+<content src="chapter715.html"/>
+</navPoint>
+
+<navPoint id="chapter716" playOrder="719">
+<navLabel><text>第三五零章 秋 （下）</text></navLabel>
+<content src="chapter716.html"/>
+</navPoint>
+
+<navPoint id="chapter717" playOrder="720">
+<navLabel><text>第三五一章 冬 （上）</text></navLabel>
+<content src="chapter717.html"/>
+</navPoint>
+
+<navPoint id="chapter718" playOrder="721">
+<navLabel><text>第三五一章 冬 （中）</text></navLabel>
+<content src="chapter718.html"/>
+</navPoint>
+
+<navPoint id="chapter719" playOrder="722">
+<navLabel><text>第三五一章 冬 （下）</text></navLabel>
+<content src="chapter719.html"/>
+</navPoint>
+
+<navPoint id="chapter720" playOrder="723">
+<navLabel><text>第三五二章 和亲 （上）</text></navLabel>
+<content src="chapter720.html"/>
+</navPoint>
+
+<navPoint id="chapter721" playOrder="724">
+<navLabel><text>第三五二章 和亲 （中）</text></navLabel>
+<content src="chapter721.html"/>
+</navPoint>
+
+<navPoint id="chapter722" playOrder="725">
+<navLabel><text>第三五二章 和亲 （下）</text></navLabel>
+<content src="chapter722.html"/>
+</navPoint>
+
+<navPoint id="chapter723" playOrder="726">
+<navLabel><text>第三五三章 单刀入敌营 （上）</text></navLabel>
+<content src="chapter723.html"/>
+</navPoint>
+
+<navPoint id="chapter724" playOrder="727">
+<navLabel><text>第三五三章 单刀入敌营 （中）</text></navLabel>
+<content src="chapter724.html"/>
+</navPoint>
+
+<navPoint id="chapter725" playOrder="728">
+<navLabel><text>第三五三章 单刀入敌营 （下）</text></navLabel>
+<content src="chapter725.html"/>
+</navPoint>
+
+<navPoint id="chapter726" playOrder="729">
+<navLabel><text>第三五四章 春风得意 （上）</text></navLabel>
+<content src="chapter726.html"/>
+</navPoint>
+
+<navPoint id="chapter727" playOrder="730">
+<navLabel><text>第三五四章 春风得意 （中）</text></navLabel>
+<content src="chapter727.html"/>
+</navPoint>
+
+<navPoint id="chapter728" playOrder="731">
+<navLabel><text>第三五四章 春风得意 （下）</text></navLabel>
+<content src="chapter728.html"/>
+</navPoint>
+
+<navPoint id="chapter729" playOrder="732">
+<navLabel><text>第三五五章 国色天香 （上）</text></navLabel>
+<content src="chapter729.html"/>
+</navPoint>
+
+<navPoint id="chapter730" playOrder="733">
+<navLabel><text>第三五五章 国色天香 （中）</text></navLabel>
+<content src="chapter730.html"/>
+</navPoint>
+
+<navPoint id="chapter731" playOrder="734">
+<navLabel><text>第三五五章 国色天香 （下）</text></navLabel>
+<content src="chapter731.html"/>
+</navPoint>
+
+<navPoint id="chapter732" playOrder="735">
+<navLabel><text>第三五六章 制科考试（上）</text></navLabel>
+<content src="chapter732.html"/>
+</navPoint>
+
+<navPoint id="chapter733" playOrder="736">
+<navLabel><text>第三五六章 制科考试（中）</text></navLabel>
+<content src="chapter733.html"/>
+</navPoint>
+
+<navPoint id="chapter734" playOrder="737">
+<navLabel><text>第三五六章 制科考试（下）</text></navLabel>
+<content src="chapter734.html"/>
+</navPoint>
+
+<navPoint id="chapter735" playOrder="738">
+<navLabel><text>第三五七章 暗战（上）</text></navLabel>
+<content src="chapter735.html"/>
+</navPoint>
+
+<navPoint id="chapter736" playOrder="739">
+<navLabel><text>第三五七章 暗战（中）</text></navLabel>
+<content src="chapter736.html"/>
+</navPoint>
+
+<navPoint id="chapter737" playOrder="740">
+<navLabel><text>第三五七章 暗战（下）</text></navLabel>
+<content src="chapter737.html"/>
+</navPoint>
+
+<navPoint id="chapter738" playOrder="741">
+<navLabel><text>第三五七章 祥瑞（上）</text></navLabel>
+<content src="chapter738.html"/>
+</navPoint>
+
+<navPoint id="chapter739" playOrder="742">
+<navLabel><text>第三五七章 祥瑞（中）</text></navLabel>
+<content src="chapter739.html"/>
+</navPoint>
+
+<navPoint id="chapter740" playOrder="743">
+<navLabel><text>第三五七章 祥瑞（下）</text></navLabel>
+<content src="chapter740.html"/>
+</navPoint>
+
+<navPoint id="chapter741" playOrder="744">
+<navLabel><text>第三五八章 日食（上）</text></navLabel>
+<content src="chapter741.html"/>
+</navPoint>
+
+<navPoint id="chapter742" playOrder="745">
+<navLabel><text>第三五八章 日食（中）</text></navLabel>
+<content src="chapter742.html"/>
+</navPoint>
+
+<navPoint id="chapter743" playOrder="746">
+<navLabel><text>第三五八章 日食（下）</text></navLabel>
+<content src="chapter743.html"/>
+</navPoint>
+
+<navPoint id="chapter744" playOrder="747">
+<navLabel><text>第三五八章 决堤（上）</text></navLabel>
+<content src="chapter744.html"/>
+</navPoint>
+
+<navPoint id="chapter745" playOrder="748">
+<navLabel><text>第三五八章 决堤（中）</text></navLabel>
+<content src="chapter745.html"/>
+</navPoint>
+
+<navPoint id="chapter746" playOrder="749">
+<navLabel><text>第三五八章 决堤（下）</text></navLabel>
+<content src="chapter746.html"/>
+</navPoint>
+
+<navPoint id="chapter747" playOrder="750">
+<navLabel><text>第三五九章 说客（上）</text></navLabel>
+<content src="chapter747.html"/>
+</navPoint>
+
+<navPoint id="chapter748" playOrder="751">
+<navLabel><text>第三五九章 说客（中）</text></navLabel>
+<content src="chapter748.html"/>
+</navPoint>
+
+<navPoint id="chapter749" playOrder="752">
+<navLabel><text>第三五九章 说客（下）</text></navLabel>
+<content src="chapter749.html"/>
+</navPoint>
+
+<navPoint id="chapter750" playOrder="753">
+<navLabel><text>第三六零章 绯闻（上）</text></navLabel>
+<content src="chapter750.html"/>
+</navPoint>
+
+<navPoint id="chapter751" playOrder="754">
+<navLabel><text>第三六零章 绯闻（中）</text></navLabel>
+<content src="chapter751.html"/>
+</navPoint>
+
+<navPoint id="chapter752" playOrder="755">
+<navLabel><text>第三六零章绯闻（中）</text></navLabel>
+<content src="chapter752.html"/>
+</navPoint>
+
+<navPoint id="chapter753" playOrder="756">
+<navLabel><text>第三六零章 绯闻（下）</text></navLabel>
+<content src="chapter753.html"/>
+</navPoint>
+
+<navPoint id="chapter754" playOrder="757">
+<navLabel><text>“天要下去，娘要嫁人第三六零章 绯闻（下），随他去吧……”陈恪垂下眼睑道。</text></navLabel>
+<content src="chapter754.html"/>
+</navPoint>
+
+<navPoint id="chapter755" playOrder="758">
+<navLabel><text>“那你倒是拿出点手段来，”陈慵激将道：“让小弟我刮目相第三六零章 绯闻（下）看啊！”</text></navLabel>
+<content src="chapter755.html"/>
+</navPoint>
+
+<navPoint id="chapter756" playOrder="759">
+<navLabel><text>第三六一章 人选（上）</text></navLabel>
+<content src="chapter756.html"/>
+</navPoint>
+
+<navPoint id="chapter757" playOrder="760">
+<navLabel><text>第三六一章 人选（中）</text></navLabel>
+<content src="chapter757.html"/>
+</navPoint>
+
+<navPoint id="chapter758" playOrder="761">
+<navLabel><text>第三六一章 人选（下）</text></navLabel>
+<content src="chapter758.html"/>
+</navPoint>
+
+<navPoint id="chapter759" playOrder="762">
+<navLabel><text>第三六二章 官司（上）</text></navLabel>
+<content src="chapter759.html"/>
+</navPoint>
+
+<navPoint id="chapter760" playOrder="763">
+<navLabel><text>第三六一章 官司（中）</text></navLabel>
+<content src="chapter760.html"/>
+</navPoint>
+
+<navPoint id="chapter761" playOrder="764">
+<navLabel><text>第三六一章 官司（下）</text></navLabel>
+<content src="chapter761.html"/>
+</navPoint>
+
+<navPoint id="chapter762" playOrder="765">
+<navLabel><text>第三六二章 你有张良计，我有过墙体（上）</text></navLabel>
+<content src="chapter762.html"/>
+</navPoint>
+
+<navPoint id="chapter763" playOrder="766">
+<navLabel><text>第三六二章 你有张良计，我有过墙梯 （中）</text></navLabel>
+<content src="chapter763.html"/>
+</navPoint>
+
+<navPoint id="chapter764" playOrder="767">
+<navLabel><text>第三六二章 你有张良计，我有过墙梯 （下）</text></navLabel>
+<content src="chapter764.html"/>
+</navPoint>
+
+<navPoint id="chapter765" playOrder="768">
+<navLabel><text>第三六三章 凯旋（上）</text></navLabel>
+<content src="chapter765.html"/>
+</navPoint>
+
+<navPoint id="chapter766" playOrder="769">
+<navLabel><text>第三六三章 凯旋（中）</text></navLabel>
+<content src="chapter766.html"/>
+</navPoint>
+
+<navPoint id="chapter767" playOrder="770">
+<navLabel><text>第三六三章 凯旋（下）</text></navLabel>
+<content src="chapter767.html"/>
+</navPoint>
+
+<navPoint id="chapter768" playOrder="771">
+<navLabel><text>第三六四章 风水轮流转（上）</text></navLabel>
+<content src="chapter768.html"/>
+</navPoint>
+
+<navPoint id="chapter769" playOrder="772">
+<navLabel><text>第三六四章 风水轮流转（中）</text></navLabel>
+<content src="chapter769.html"/>
+</navPoint>
+
+<navPoint id="chapter770" playOrder="773">
+<navLabel><text>第三六四章 风水轮流转（下）</text></navLabel>
+<content src="chapter770.html"/>
+</navPoint>
+
+<navPoint id="chapter771" playOrder="774">
+<navLabel><text>第三六五章 齐王殿下（上）</text></navLabel>
+<content src="chapter771.html"/>
+</navPoint>
+
+<navPoint id="chapter772" playOrder="775">
+<navLabel><text>第三六五章 齐王殿下（上）</text></navLabel>
+<content src="chapter772.html"/>
+</navPoint>
+
+<navPoint id="chapter773" playOrder="776">
+<navLabel><text>第三六五章 齐王殿下（中）</text></navLabel>
+<content src="chapter773.html"/>
+</navPoint>
+
+<navPoint id="chapter774" playOrder="777">
+<navLabel><text>第三六五章 齐王殿下（中）</text></navLabel>
+<content src="chapter774.html"/>
+</navPoint>
+
+<navPoint id="chapter775" playOrder="778">
+<navLabel><text>第三六五章 齐王殿下（下）</text></navLabel>
+<content src="chapter775.html"/>
+</navPoint>
+
+<navPoint id="chapter776" playOrder="779">
+<navLabel><text>第三六五章 齐王殿下（下）</text></navLabel>
+<content src="chapter776.html"/>
+</navPoint>
+
+<navPoint id="chapter777" playOrder="780">
+<navLabel><text>第三六六章 府尹难当（上）</text></navLabel>
+<content src="chapter777.html"/>
+</navPoint>
+
+<navPoint id="chapter778" playOrder="781">
+<navLabel><text>第三六六章 府尹难当（上）</text></navLabel>
+<content src="chapter778.html"/>
+</navPoint>
+
+<navPoint id="chapter779" playOrder="782">
+<navLabel><text>第三六六章 府尹难当（中）</text></navLabel>
+<content src="chapter779.html"/>
+</navPoint>
+
+<navPoint id="chapter780" playOrder="783">
+<navLabel><text>第三六六章 府尹难当（下）</text></navLabel>
+<content src="chapter780.html"/>
+</navPoint>
+
+<navPoint id="chapter781" playOrder="784">
+<navLabel><text>第三六七章 破鼓（上）</text></navLabel>
+<content src="chapter781.html"/>
+</navPoint>
+
+<navPoint id="chapter782" playOrder="785">
+<navLabel><text>第三六七章 破鼓（上）</text></navLabel>
+<content src="chapter782.html"/>
+</navPoint>
+
+<navPoint id="chapter783" playOrder="786">
+<navLabel><text>第三六七章 破鼓（中）</text></navLabel>
+<content src="chapter783.html"/>
+</navPoint>
+
+<navPoint id="chapter784" playOrder="787">
+<navLabel><text>第三六七章 破鼓（下）</text></navLabel>
+<content src="chapter784.html"/>
+</navPoint>
+
+<navPoint id="chapter785" playOrder="788">
+<navLabel><text>第三六八章 火灾（上）</text></navLabel>
+<content src="chapter785.html"/>
+</navPoint>
+
+<navPoint id="chapter786" playOrder="789">
+<navLabel><text>第三六八章 火灾（中）</text></navLabel>
+<content src="chapter786.html"/>
+</navPoint>
+
+<navPoint id="chapter787" playOrder="790">
+<navLabel><text>第三六八章 火灾（下）</text></navLabel>
+<content src="chapter787.html"/>
+</navPoint>
+
+<navPoint id="chapter788" playOrder="791">
+<navLabel><text>第三六九章 逆转（上）</text></navLabel>
+<content src="chapter788.html"/>
+</navPoint>
+
+<navPoint id="chapter789" playOrder="792">
+<navLabel><text>第三六九章 逆转（中）</text></navLabel>
+<content src="chapter789.html"/>
+</navPoint>
+
+<navPoint id="chapter790" playOrder="793">
+<navLabel><text>第三六九章 逆转（下）</text></navLabel>
+<content src="chapter790.html"/>
+</navPoint>
+
+<navPoint id="chapter791" playOrder="794">
+<navLabel><text>第三七零章 伏杀（上）</text></navLabel>
+<content src="chapter791.html"/>
+</navPoint>
+
+<navPoint id="chapter792" playOrder="795">
+<navLabel><text>第三七零章 伏杀（中）</text></navLabel>
+<content src="chapter792.html"/>
+</navPoint>
+
+<navPoint id="chapter793" playOrder="796">
+<navLabel><text>第三七零章 伏杀（下）</text></navLabel>
+<content src="chapter793.html"/>
+</navPoint>
+
+<navPoint id="chapter794" playOrder="797">
+<navLabel><text>第三七一章 狗急跳墙（上）</text></navLabel>
+<content src="chapter794.html"/>
+</navPoint>
+
+<navPoint id="chapter795" playOrder="798">
+<navLabel><text>第三七一章 狗急跳墙（中）</text></navLabel>
+<content src="chapter795.html"/>
+</navPoint>
+
+<navPoint id="chapter796" playOrder="799">
+<navLabel><text>第三七一章 狗急跳墙（下）</text></navLabel>
+<content src="chapter796.html"/>
+</navPoint>
+
+<navPoint id="chapter797" playOrder="800">
+<navLabel><text>第三七二章 似是故人来（上）</text></navLabel>
+<content src="chapter797.html"/>
+</navPoint>
+
+<navPoint id="chapter798" playOrder="801">
+<navLabel><text>第三七二章 似是故人来（中）</text></navLabel>
+<content src="chapter798.html"/>
+</navPoint>
+
+<navPoint id="chapter799" playOrder="802">
+<navLabel><text>第三七二章 似是故人来（下）</text></navLabel>
+<content src="chapter799.html"/>
+</navPoint>
+
+<navPoint id="chapter800" playOrder="803">
+<navLabel><text>第三七三章 白龙鱼服（上）</text></navLabel>
+<content src="chapter800.html"/>
+</navPoint>
+
+<navPoint id="chapter801" playOrder="804">
+<navLabel><text>第三七三章 白龙鱼服（中）</text></navLabel>
+<content src="chapter801.html"/>
+</navPoint>
+
+<navPoint id="chapter802" playOrder="805">
+<navLabel><text>第三七三章 白龙鱼服（下）</text></navLabel>
+<content src="chapter802.html"/>
+</navPoint>
+
+<navPoint id="chapter803" playOrder="806">
+<navLabel><text>第三七四章 好家伙（上）</text></navLabel>
+<content src="chapter803.html"/>
+</navPoint>
+
+<navPoint id="chapter804" playOrder="807">
+<navLabel><text>第三七四章 好家伙（中）</text></navLabel>
+<content src="chapter804.html"/>
+</navPoint>
+
+<navPoint id="chapter805" playOrder="808">
+<navLabel><text>第三七四章 好家伙（下）</text></navLabel>
+<content src="chapter805.html"/>
+</navPoint>
+
+<navPoint id="chapter806" playOrder="809">
+<navLabel><text>第三七五章 困扰（上）</text></navLabel>
+<content src="chapter806.html"/>
+</navPoint>
+
+<navPoint id="chapter807" playOrder="810">
+<navLabel><text>第三七五章 困扰（中）</text></navLabel>
+<content src="chapter807.html"/>
+</navPoint>
+
+<navPoint id="chapter808" playOrder="811">
+<navLabel><text>第三七五章 困扰（下）</text></navLabel>
+<content src="chapter808.html"/>
+</navPoint>
+
+<navPoint id="chapter809" playOrder="812">
+<navLabel><text>第三七六章 曝光（上）</text></navLabel>
+<content src="chapter809.html"/>
+</navPoint>
+
+<navPoint id="chapter810" playOrder="813">
+<navLabel><text>第三七六章 曝光（中）</text></navLabel>
+<content src="chapter810.html"/>
+</navPoint>
+
+<navPoint id="chapter811" playOrder="814">
+<navLabel><text>“诸位继续忙吧。”陈恪笑着让众入不必理会，对近处的一个阿拉伯学者道：“阿古拉，你翻译的《地理学》第一卷，我已经看了，非常棒。为何你不再接着翻译，又转去译《论彩虹》了？”</text></navLabel>
+<content src="chapter811.html"/>
+</navPoint>
+
+<navPoint id="chapter812" playOrder="815">
+<navLabel><text>第三七六章 曝光（下）</text></navLabel>
+<content src="chapter812.html"/>
+</navPoint>
+
+<navPoint id="chapter813" playOrder="816">
+<navLabel><text>第三七七章 黯然销魂（上）</text></navLabel>
+<content src="chapter813.html"/>
+</navPoint>
+
+<navPoint id="chapter814" playOrder="817">
+<navLabel><text>第三七七章 黯然销魂（中）</text></navLabel>
+<content src="chapter814.html"/>
+</navPoint>
+
+<navPoint id="chapter815" playOrder="818">
+<navLabel><text>第三七七章 黯然销魂（下）</text></navLabel>
+<content src="chapter815.html"/>
+</navPoint>
+
+<navPoint id="chapter816" playOrder="819">
+<navLabel><text>第三七八章节 宾天（上）第三25中）</text></navLabel>
+<content src="chapter816.html"/>
+</navPoint>
+
+<navPoint id="chapter817" playOrder="820">
+<navLabel><text>第三七八章 宾天（中）</text></navLabel>
+<content src="chapter817.html"/>
+</navPoint>
+
+<navPoint id="chapter818" playOrder="821">
+<navLabel><text>第三七八章 宾天（下）上）46第三</text></navLabel>
+<content src="chapter818.html"/>
+</navPoint>
+
+<navPoint id="chapter819" playOrder="822">
+<navLabel><text>第三七九章节 白虎堂（上）第三25</text></navLabel>
+<content src="chapter819.html"/>
+</navPoint>
+
+<navPoint id="chapter820" playOrder="823">
+<navLabel><text>第三七九章节 白虎堂（中+下）第三25孤城</text></navLabel>
+<content src="chapter820.html"/>
+</navPoint>
+
+<navPoint id="chapter821" playOrder="824">
+<navLabel><text>第三八零章 紫禁城之巅、不见叶孤城</text></navLabel>
+<content src="chapter821.html"/>
+</navPoint>
+
+<navPoint id="chapter822" playOrder="825">
+<navLabel><text>终章 仁者天下孤城46第三</text></navLabel>
+<content src="chapter822.html"/>
+</navPoint>
+
+<navPoint id="chapter823" playOrder="826">
+<navLabel><text>半夜睡不着、爬起来说说吧。终章25</text></navLabel>
+<content src="chapter823.html"/>
+</navPoint>
+
+</navMap>
+</ncx>
