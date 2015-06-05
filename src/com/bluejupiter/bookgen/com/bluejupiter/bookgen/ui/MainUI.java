@@ -114,7 +114,6 @@ public class MainUI {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if(gen == null) return;
-//                String input = gen.readStringFromFile(new File(gen.getTxtFile()));
                 gen.setPattern(textFieldRegux.getText());
                 gen.setToc(new Vector());
                 gen.setEncoding(textEncoding.getText());
