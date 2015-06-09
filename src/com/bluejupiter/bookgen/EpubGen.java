@@ -287,7 +287,15 @@ public class EpubGen {
                     if(titles!= null&& this.toc.contains(titles)) {
                         title = titles;
                         String content = sb.toString();
-                        chapter = chapter.replaceAll("_body_",content);
+
+                        content = java.util.regex.Matcher.quoteReplacement(content);
+                        try {
+                            chapter = chapter.replaceAll("_body_", content);
+                        }catch(Exception e){
+                            System.out.println(content);
+                            e.printStackTrace();
+
+                        }
 
                         String fileN = "chapter" + count;
                         String fN = fileN + ".html";
