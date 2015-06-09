@@ -11,6 +11,9 @@ import java.util.regex.Pattern;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
+/**
+ * The class will be used to generated a epub or kindle format e-book
+ */
 public class EpubGen {
 
     private String epubFile;
@@ -28,44 +31,60 @@ public class EpubGen {
 
     private String encoding = "gbk";
 
-    private EpubGen(){}
+    private boolean isConvertToKindle = true;
 
-    public EpubGen(String txtFile){
-        this.txtFile = txtFile;
+    private EpubGen(){
         book = new Book();
+        decideKindleGen();
+        pattern = "(第(一|二|三|四|五|六|七|八|九|十|百|[0-9])+(章|卷|节|回|补))(.*)";
+        toc = new Vector<String>();
+    }
+
+    public EpubGen(String txtFile) {
+        this();
+        this.txtFile = txtFile;
         int indexofslash = txtFile.lastIndexOf("/");
         int indexofpoint = txtFile.lastIndexOf(".");
         book.setTitle(txtFile.substring(indexofslash + 1, indexofpoint).trim());
-        epubFile = txtFile.substring(0,indexofslash).trim() + "/" + book.getTitle() + ".epub";
-        toc = new Vector<String>();
-        kindlegen = "./bin/kindlegen";
-        pattern = "(第(一|二|三|四|五|六|七|八|九|十|百|[0-9])+(章|卷|节|回|补))(.*)";
+        epubFile = txtFile.substring(0, indexofslash).trim() + "/" + book.getTitle() + ".epub";
+    }
+//    /**
+//     * just for converting epub to kindle format
+//     * @param input - epub file
+//     * @param output - kindle file
+//     */
+//    public EpubGen(String input, String output) {
+//        this.epubFile = input;
+//        this.kindleFile = output;
+//        if(input == null){
+//            input = tempFolder + "";
+//        }
+//        if(output == null){
+//            output = "./test.epub";
+//        }
+//        decideKindleGen();
+//        pattern = "(第(一|二|三|四|五|六|七|八|九|十|百|[0-9])+(章|卷|节|回|补))(.*)";
+//    }
+
+    private void decideKindleGen() {
+        String os = System.getProperty("os.name");
+        if(os.contains("Win")){
+            kindlegen = "./bin/kindlegen_v2.8.exe";
+        }else {
+            kindlegen = "./bin/kindlegen";
+        }
     }
 
-    /**
-     * just for converting epub to kindle format
-     * @param input
-     * @param output
-     */
-    public EpubGen(String input, String output) {
-        this.epubFile = input;
-        this.kindleFile = output;
-        if(input == null){
-            input = tempFolder + "";
-        }
-        if(output == null){
-            output = "./test.epub";
-        }
-        kindlegen = "./bin/kindlegen";
-        pattern = "(第(一|二|三|四|五|六|七|八|九|十|百|[0-9])+(章|卷|节|回|补))(.*)";
-    }
-
-    public void main(String[] args) throws IOException {
-        EpubGen gen = new EpubGen(tempFolder + "","./test.epub");
-        gen.generatedEpub();
-        gen.checkEpub();
-//        gen.setKindlegen("./bin/kindlegen_v2.8");
-        gen.converToMobi();
+    public static void main(String[] args) throws IOException {
+//        EpubGen gen = new EpubGen(tempFolder + "","./test.epub");
+//        gen.generatedEpub();
+//        gen.checkEpub();
+//        gen.setKindlegen("./bin/kindlegen_v2.8");//uncommment it in win_os
+//        gen.converToMobi();
+//        String os = System.getProperty("os.name");
+//        if(os.contains("Win")) {
+//            System.out.println(os);
+//        }
     }
 
     public void setKindlegen(String kindlegen){
@@ -106,16 +125,19 @@ public class EpubGen {
         }
         inMime2.close();
         File f = new File(tempFolder + File.separator +"OEBPS");
-        List<String> fileList = new ArrayList();
+        List<String> fileList = new ArrayList<String>();
         if(f.exists() && f.isDirectory()) {
             File ff[] = f.listFiles();
-            for (int i = 0; i < ff.length; i++) {
-                fileList.add(ff[i].getName());
+
+            if (ff != null) {
+                for (File aFf : ff) {
+                    fileList.add(aFf.getName());
+                }
             }
         }
 
         for(String file : fileList){
-            if(!file.toString().equals("mimetype") && !file.toString().equals("META-INF/container.xml")){
+            if(!file.equals("mimetype") && !file.equals("META-INF/container.xml")){
                 System.out.println("File Added : " + file);
                 ZipEntry ze= new ZipEntry("OEBPS/"+file);
                 zos.putNextEntry(ze);
@@ -159,10 +181,6 @@ public class EpubGen {
         zip.closeEntry();
     }
 
-    public String readStringFromFile(File file){
-        return readStringFromFile(file,encoding);
-    }
-
     public String readStringFromFile(File file,String encoding) {
         StringBuilder sb = new StringBuilder();
         if (!file.exists()) {
@@ -177,7 +195,7 @@ public class EpubGen {
 
             String string;
             while ((string = br.readLine()) != null) {
-                if(string != null && string.trim().length() >0) {
+                if(string.trim().length() >0) {
                     sb.append(string);
                     sb.append("\r\n");
                 }
@@ -216,9 +234,8 @@ public class EpubGen {
     private void generatedTitles(){
         File file = new File(this.txtFile);
 
-        StringBuilder sb = new StringBuilder();
         // 检查文件名是否符合要求,这一步暂时省略......................................
-        BufferedReader br = null;
+        BufferedReader br;
         try {
             InputStreamReader read = new InputStreamReader(new FileInputStream(file), encoding);
             br = new BufferedReader(read);
@@ -325,7 +342,8 @@ public class EpubGen {
             this.generatedEpub();
             this.checkEpub();
 //        gen.setKindlegen("./bin/kindlegen_v2.8");
-            this.converToMobi();
+            if(isConvertToKindle)//only it is true, will convert to mobi
+                this.converToMobi();
 
         } catch (IOException e) {
             throw new RuntimeException(e);
@@ -542,7 +560,7 @@ public class EpubGen {
     }
 
     public Vector<String> getToc() {
-        if(toc == null) toc = new Vector();
+        if(toc == null) toc = new Vector<String>();
         if(toc.size() == 0) this.generatedTitles();
         return toc;
     }
@@ -553,5 +571,13 @@ public class EpubGen {
 
     public void setEncoding(String encoding) {
         this.encoding = encoding;
+    }
+
+    public boolean isConvertToKindle() {
+        return isConvertToKindle;
+    }
+
+    public void setConvertToKindle(boolean isConvertToKindle) {
+        this.isConvertToKindle = isConvertToKindle;
     }
 }
